@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog ES</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/es</link>
+	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
+	<lastBuildDate>Mon, 17 Mar 2014 16:02:42 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>¡PrestaShop 1.6 está Disponible Oficialmente para Descargar!</title>
+		<link>http://www.prestashop.com/blog/es/prestashop-1-6-esta-disponible-oficialmente-para-descargar/</link>
+		<comments>http://www.prestashop.com/blog/es/prestashop-1-6-esta-disponible-oficialmente-para-descargar/#comments</comments>
+		<pubDate>Mon, 17 Mar 2014 16:02:42 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10985</guid>
+		<description><![CDATA[Tras meses de desarrollo y trabajando en estrecha colaboración con la Comunidad, nos complace anunciar que PrestaShop 1.6 ya está disponible. Esta nueva versión es la versión de PrestaShop más elegante e inteligente hasta la fecha y ¡no querrá perdérsela! &#8230; <a href="http://www.prestashop.com/blog/es/prestashop-1-6-esta-disponible-oficialmente-para-descargar/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter  wp-image-10988" title="ES Image" src="http://www.prestashop.com/blog/es/files/2014/03/ES-Image.jpg" alt="" width="531" height="225" /></p>
+<p>Tras meses de desarrollo y trabajando en estrecha colaboración con la Comunidad, nos complace anunciar que PrestaShop 1.6 ya está disponible. Esta nueva versión es la versión de PrestaShop más elegante e inteligente hasta la fecha y ¡no querrá perdérsela!</p>
+<p style="padding-left: 30px;">- Actualice a 1.6 con el <a href="http://addons.prestashop.com/es/administracion-prestashop-modulo/5496-1-click-upgrade-autoupgrade.html" target="_blank">Módulo de Actualización Automática</a><br />
+- <a href="http://www.prestashop.com/es/descarga" target="_blank">Descargue PrestaShop 1.6</a></p>
+<p><span style="color: #000000;"><em>Descubra estas mejoras clave y las nuevas funcionalidades:</em></span><br />
+<span id="more-10985"></span></p>
+<h4><span style="color: #ff0099;">Plantilla por Defecto del Front Office Rediseñada y Completamente Responsive</span></h4>
+<p style="padding-left: 30px;">- La plantilla del Front Office ya es <span style="color: #000000;"><strong>responsive en dispositivos móviles</strong></span>, permitiendo que su tienda online se muestre perfectamente cuando sea visitada desde un teléfono móvil o tablet.<br />
+- El potente y popular módulo <strong><span style="color: #000000;">Menú Enriquecido</span></strong> ha sido integrado en el tema por defecto<br />
+- La Nueva Funcionalidad de <strong><span style="color: #000000;">Vista Rápida</span></strong> ha sido añadida para permitir que los clientes puedan añadir un producto a su carrito sin tener que navegar fuera de la página actual<br />
+- Hemos incluido <strong><span style="color: #000000;">Banners Promocionales Atractivos</span></strong> para ayudarle a resaltar las ofertas, las campañas de marketing y otras promociones<br />
+- El <span style="color: #000000;"><strong>Configurador de Plantilla en Vivo</strong></span> le permite cambiar el color y la fuente de su tienda directamente desde el Front Office<br />
+- Ahora sus clientes pueden elegir entre <span style="color: #000000;"><strong>visualización en cuadrícula o listad</strong></span>o cuando ojeen sus productos<br />
+- Incluso hay más funcionalidades impresionantes como la comparación de productos integrada con URL dedicada, o la nueva ventana de confirmación al añadir al carrito con venta cruzada, validación del formato de los campos instantánea y ¡MUCHO MÁS!</p>
+<p style="padding-left: 30px;">Más información sobre el <a href="http://www.prestashop.com/blog/es/prestashop-version-1-6-un-vistazo-al-rediseno-del-front-office/" target="_blank">Front Office de la versión 1.6</a>.</p>
+<h4><span style="color: #ff0099;">Back Office Rediseñado y Completamente Responsive</span></h4>
+<p style="padding-left: 30px;">- El Back Office ya es completamente <strong><span style="color: #000000;">responsive en móviles</span></strong>, permitiéndole gestionar su tienda desde un teléfono móvil o un tablet, ¡donde quiera que esté!<br />
+- Un <strong><span style="color: #000000;">nuevo cuadro de mandos</span></strong> que muestra le muestra lo más importante para usted, ¡en tiempo real!<br />
+- <span style="color: #000000;"><strong>Margen de beneficios neto en tiempo real</strong></span>, una funcionalidad única en e-commerce que solo podrá encontrar en PrestaShop 1.6<br />
+- Los <strong><span style="color: #000000;">KPIs</span></strong> (indicado clave de desempeño) de Venta Inteligentes se encuentran en distintas páginas seleccionadas a lo largo de todo el back office, proporcionándole perspectiva sobre su tienda<br />
+- El <strong><span style="color: #000000;">Panel de Pronóstico de Estadísticas Inteligente</span></strong> que le permitirá ver las tendencias en sus ventas y le ayudará a pronosticar el futuro</p>
+<p style="padding-left: 30px;">Más información sobre el <a href="http://www.prestashop.com/blog/es/el-back-office-de-prestashop-1-6-que-hay-de-nuevo-y-mejorado/" target="_blank">Back Office</a> y <a href="http://www.prestashop.com/blog/es/presentacion-del-nuevo-cuadro-de-mandos-de-prestashop-1-6/" target="_blank">El Cuadro de Mandos</a> de la versión 1.6.</p>
+<p style="padding-left: 30px;">- Actualice a 1.6 con el <a href="http://addons.prestashop.com/es/administracion-prestashop-modulo/5496-1-click-upgrade-autoupgrade.html" target="_blank">Módulo de Actualización Automática</a><br />
+- <a href="http://www.prestashop.com/es/descarga" target="_blank">Descargue PrestaShop 1.6</a></p>
+<div id="video16">
+<h4>Vea el Video de Lanzamiento de PrestaShop 1.6 presentado por el CEO de PrestaShop Benjamin Teszner y el CEO y Co-fundador Bruno Levêque</h4>
+<p><iframe src="//player.vimeo.com/video/89298199?color=E51D8C" frameborder="0" width="500" height="281"></iframe>
+</div>
+<h4><span style="color: #ff0099;">¡PrestaShop Addons celebra el lanzamiento de la versión 1.6 con un 15% de DESCUENTO en todos los Módulos Desarrollados por PrestaShop!</span></h4>
+<p>Todos los módulos desarrollados por PrestaShop están preparados para funcionar en PrestaShop 1.6 al igual que muchos de sus otros módulos preferidos. Disfrute de un 15% de descuento en todos los módulos desarrollados por PrestaShop con nuestro código promocional exclusivo <span style="color: #1eb006;"><strong>PRESTASHOP16</strong></span> solo disponible desde ahora hasta el miércoles a media noche.</p>
+<p style="padding-left: 30px;"><a href="http://addons.prestashop.com/en/2-modules-prestashop " target="_blank"><br />
+Aprovéchese de esta oferta ahora</a></p>
+<p>También, puede encontrar todas <a href="http://www.prestashop.com/blog/es/respuestas-a-sus-preguntas-sobre-prestashop-1-6/" target="_blank">las respuestas a las preguntas más frecuentes sobre PrestaShop 1.6</a>.</p>
+<p>¿A qué espera? ¡<a href="http://www.prestashop.com/es/descarga" target="_blank">Descargue PrestaShop 1.6 ahora</a>!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/prestashop-1-6-esta-disponible-oficialmente-para-descargar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Listo para PrestaShop 1.6? La Lista de Control Oficial</title>
+		<link>http://www.prestashop.com/blog/es/listo-para-prestashop-1-6-la-lista-de-control-oficial/</link>
+		<comments>http://www.prestashop.com/blog/es/listo-para-prestashop-1-6-la-lista-de-control-oficial/#comments</comments>
+		<pubDate>Wed, 12 Mar 2014 15:38:34 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10975</guid>
+		<description><![CDATA[¡El lanzamiento de PrestaShop 1.6 está a la vuelta de la esquina! Queremos asegurarnos de que está preparado para actualizarse y comentar a aprovechar todas las funcionalidades nuevas de esta impresionante versión. Nuestros desarrolladores respondieron a sus preguntas sobre la &#8230; <a href="http://www.prestashop.com/blog/es/listo-para-prestashop-1-6-la-lista-de-control-oficial/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¡El lanzamiento de PrestaShop 1.6 está a la vuelta de la esquina! Queremos asegurarnos de que está preparado para actualizarse y comentar a aprovechar todas las funcionalidades nuevas de esta impresionante versión.</p>
+<p>Nuestros desarrolladores respondieron a sus preguntas<br />
+sobre la versión 1.6. y en esta ocasión vamos a compartiros La Lista de Control Oficial para que pueda asegurar que la transición a PrestaShop 1.6 sea sencilla.</p>
+<p><img class="aligncenter size-full wp-image-10976" title="ES_Are you ready for PrestaShop 1.6 the official checklist" src="http://www.prestashop.com/blog/es/files/2014/03/ES_Are-you-ready-for-PrestaShop-1.6-the-official-checklist.jpg" alt="" width="595" height="289" /></p>
+<p><span id="more-10975"></span></p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Preparar un entorno de pruebas para su tienda online</span></h4>
+<p>Antes de nada, necesita preparar un servidor de pruebas para su tienda PrestaShop. Cuando monta un entorno de pruebas para su tienda, lo único que hace es duplicar su tienda online. Haciendo esto, podrá ver qué aspecto tendrá la tienda cuando se implementen los cambios y podrá realizar una batería de pruebas antes de hacer cualquier modificación a su tienda en producción. Podrá probar la versión 1.6 y cualquier tema o módulo que haya instalado. Montar un entorno de pruebas le ayudará a evitar cualquier caída de la tienda y la consiguiente pérdida de ventas.</p>
+<p>Este artículo le ayudará paso a paso a <a href="http://www.prestashop.com/blog/es/servidor-de-test-para-una-tienda-on-line/" target="_blank">montar un servidor de pruebas para su tienda online</a>.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Hacer una copia de seguridad de su tienda online</span></h4>
+<p>Para preparar un entorno de pruebas para su tienda online, deberá realizar una copia de seguridad de su tienda online. Algunos proveedores de alojamiento web automáticamente realizan una copia de seguridad de su tienda online. Sin embargo, muchos desarrolladores sugieren realizar una copia de seguridad manual de la tienda, puesto que podría darse el caso de que ocurriese algo al servidor. Así mismo, recuerde que su proveedor de alojamiento web podría realizar únicamente una copia de seguridad semanal, por lo tanto deberá asegurarse de que su entorno de pruebas tiene la última versión de su tienda online.</p>
+<p>Aprenda más sobre <a href="http://www.prestashop.com/blog/en/how-to-manually-back-up-mysql-database-and-prestashop-files/ " target="_blank">realizar una copia de seguridad manual a su tienda PrestaShop</a>.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Compatibilidad del tema</span></h4>
+<p>Asegúrese de que su tema es compatible con la versión 1.6. Todos los temas de la versión 1.5 son compatibles, pero algunos diseños pueden variar un poco respecto al tema original debido a las posiciones de los módulos y el nuevo tema de dos columnas de PrestaShop 1.6. Este es el motivo por el cual recomendamos encarecidamente probar su tienda antes de realizar cualquier actualización a la versión en producción. Asegúrese de contactar con el desarrollador de su tema para recibir cualquier actualización. Así mismo, si su tema no es compatible con Bootstrap, seguirá funcionando en 1.6, pero desafortunadamente no podrá aprovechar todos los beneficios que incluye Bootstrap para dispositivos móviles.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Compatibilidad de los módulos</span></h4>
+<p>Revise todos los módulos que hay instalados en su tienda para ver si son compatibles con 1.6 antes de actualizar. ¡Buenas noticias! Todos los módulos desarrollados por PrestaShop son compatibles con la versión 1.6. Así mismo, puede determinar si su módulo es compatible con la versión 1.6 simplemente: instale el módulo en su entorno de pruebas y compruebe que no aparece ningún error; entonces el módulo es compatible. Si el módulo no ha sido actualizado para la versión 1.6, intente contactar con el desarrollador del módulo directamente o póngase en contacto con alguna agencia de desarrollo o desarrollador freelance para que realice los cambios necesarios a su módulo.</p>
+<p>Lea más sobre <a href="http://doc.prestashop.com/display/PS16/1.6-specific+Developer+Documentation " target="_blank">compatibilidad específica sobre módulos en PrestaShop 1.6</a>.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Descargar el módulo de actualización automática</span></h4>
+<p>Tan pronto como sea lanzado PrestaShop 1.6 el 17 de marzo a las 12.00 (UTC -5), estará disponible una actualización del módulo de <a href="http://addons.prestashop.com/es/administracion-prestashop-modulo/5496-1-click-upgrade-autoupgrade.html" target="_blank">Actualización 1-click</a>. Este módulo dispone de un método automático para actualizar su tienda a PrestaShop 1.6. No se olvide de realizar una copia de seguridad previamente y probar la actualización en su entorno de pruebas previamente.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Probar la actualización en el entorno de pruebas</span></h4>
+<p>Tras completar todos los pasos anteriormente mencionados, debería comenzar a probar su tienda online en el entorno de pruebas que ha preparado. Realice un amplio abanico de pruebas antes de actualizar su tienda en producción para minimizar el tiempo de inactividad.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">Actualizar su tienda online</span></h4>
+<p>Si la actualización se ha realizado satisfactoriamente en su entorno de pruebas, ya estará oficialmente listo para actualizar su tienda en producción a PrestaShop 1.6. Asegúrese de que ha realizado una copia de seguridad de su tienda con la última versión. Tras actualizar su tienda online utilizando el módulo de actualización en 1 click, dispondrá de la opción de restaurar a la versión anterior. Haga resto si el tema o un módulo esencial (no nativo) no funciona adecuadamente.</p>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Checkmark.png" alt="" /></p>
+<h4><span style="color: #2980ac;">¡Someter todo a pruebas!</span></h4>
+<p>¡Felicidades! Su tienda ya funciona con PrestaShop 1.6. Al igual que hizo durante las pruebas en el entorno de pruebas, navegue a través de su sitio al completo y asegúrese de que todo funciona adecuadamente. Visite cada una de las páginas, realice una compra de prueba y pruebe su tienda en distintos dispositivos (móviles, tablets, pcs). Si se diese el caso, realice estas pruebas en cada uno de los idiomas activos de su tienda.</p>
+<p>&#8211;<br />
+El lanzamiento oficial de PrestaShop versión 1.6 estará disponible para descargar el próximo 17 de marzo a las 12:00 (UTC -5). ¿Quiere conocer mejor las novedades de esta versión? Lea estos artículos para saber más sobre las novedades y mejoras en el <a href="http://www.prestashop.com/blog/es/el-back-office-de-prestashop-1-6-que-hay-de-nuevo-y-mejorado/" target="_blank">back office</a>, el <a href="http://www.prestashop.com/blog/es/presentacion-del-nuevo-cuadro-de-mandos-de-prestashop-1-6/" target="_blank">cuadro de mandos</a> y el <a href="http://www.prestashop.com/blog/es/prestashop-version-1-6-un-vistazo-al-rediseno-del-front-office/" target="_blank">front office</a>. También puede consultar la página de <a href="http://www.prestashop.com/es/progress-1-6" target="_blank">progresos de PrestaShop 1.6</a> para ver un resumen de las nuevas funcionalidades o ver el video de la versión 1.6 donde se ven algunas características de la nueva versión.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/listo-para-prestashop-1-6-la-lista-de-control-oficial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 Consejos de Marketing para sus Ventas Online durante el Día de San Patricio</title>
+		<link>http://www.prestashop.com/blog/es/7-consejos-de-marketing-para-sus-ventas-online-durante-el-dia-de-san-patricio/</link>
+		<comments>http://www.prestashop.com/blog/es/7-consejos-de-marketing-para-sus-ventas-online-durante-el-dia-de-san-patricio/#comments</comments>
+		<pubDate>Mon, 10 Mar 2014 19:26:29 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10948</guid>
+		<description><![CDATA[According to the History Channel , Americans alone spend over 4 billion dollars during the St. Patrick&#8217;s Day . With March 17th just around the corner, create your own fortune from the following 7 tips to marketing your online sales &#8230; <a href="http://www.prestashop.com/blog/es/7-consejos-de-marketing-para-sus-ventas-online-durante-el-dia-de-san-patricio/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><span><span>According to the </span></span><a href="http://www.history.com/topics/st-patricks-day/history-of-st-patricks-day/interactives/st-patricks-day-by-the-numbers" target="_blank"><span><span>History Channel</span></span></a><span><span> , Americans alone spend over 4 billion dollars during the </span></span><span style="color: #008000"><span><span>St. Patrick&#8217;s Day</span></span></span><span><span> . </span><span>With March 17th just around the corner, create your own fortune from the following </span></span><strong><span style="color: #008000"><span><span>7 tips to marketing your online sales during the St. Patrick&#8217;s Day</span></span></span></strong><span><span> .</span></span></p>
+<p style="text-align: center"><img class="aligncenter  wp-image-10951" src="http://www.prestashop.com/blog/es/files/2014/03/ES-Green-Piggy-Bank.jpg" alt="" width="531" height="352" /></p>
+<p><span id="more-10948"></span></p>
+<h4><span style="color: #008000"><span><span>1. </span><span>Use the Green, in moderation</span></span></span></h4>
+<p><span><span>Everyone, and I mean everyone, uses the color green to promote their offers St. Patrick&#8217;s Day. </span><span>Instead of capturing green all, stay true to the look of your brand. </span><span>Customers should be able to recognize your brand in an advertisement. </span><span>For example, consider </span></span><a href="http://www.priceline.com/promo/deals/stpatricks/deals.html" target="_blank"><span><span>the page Specials St. Patrick&#8217;s Day Priceline</span></span></a><span><span> . </span><span>No replaced by green or blue have changed the negotiator for an elf. </span><span>Simplifying: a few strokes of green and some images related to the festival.</span></span></p>
+<p style="text-align: center"><img class="aligncenter  wp-image-10956" src="http://www.prestashop.com/blog/es/files/2014/03/st-patricks-day-priceline.png" alt="" width="470" height="274" /></p>
+<h4><span style="color: #008000"><span><span>Two. </span><span>Monte Offer Weekend</span></span></span></h4>
+<p><span><span>Although St. Patrick&#8217;s Day is not a holiday where you give away, you can take advantage of the festive spirit. </span><span>Extend the validity of the tender until the weekend before St. Patrick&#8217;s Day. </span><span>This will give ample time to buy to celebrate it. </span><span>Conversely, if the holiday falls on Friday, keeps the offer during the weekend.</span></span></p>
+<h4><span style="color: #008000"><span><span>Three. </span><span>Highlight Something related St. Patrick&#8217;s Day</span></span></span></h4>
+<p><span><span>The sky is the limit. </span><span>Start with green items. </span><span>Then try something related to Ireland. </span><span>If you sell football items, offer discounts on items Irish Football Clubs as Dublin City or Bohemians. </span><span>If you sell desserts, highlight those products that use Guinness as an ingredient or clover shaped goods. </span><span>Last but not least, use the number of good luck: 7. </span><span>Promote products 7 € or free shipping on purchases over € 77. </span></span><br />
+<span><span>For example, </span></span><a href="http://www.artoyz.com/shop/search.php?orderby=position&amp;orderway=desc&amp;search_query=green&amp;submit_search=Search" target="_blank"><span><span>Artoyz</span></span></a><span><span> :</span></span></p>
+<p><img class="aligncenter size-full wp-image-10954" src="http://www.prestashop.com/blog/es/files/2014/03/green-products.png" alt="" width="501" height="373" /></p>
+<h4><span style="color: #008000"><span><span>April. </span><span>Create a Sense of Urgency &#8211; NOW</span></span></span></h4>
+<p><span><span>He wants his customers to buy and buy now. </span><span>Create a sense of urgency by offering time-limited incentives. </span><span>For example. &#8220;Be one of the first 10 to purchase and receive a discount of 7%&#8221; Or try a discount during happy hour: &#8220;Buy before 16.00 for a discount (7 * 7 * 7)%. &#8220;For users of PrestaShop, learn how to use these discounts by visiting the </span></span><a href="http://doc.prestashop.com/display/PS15/Crear+reglas+de+precios+y+cupones" target="_blank"><span><span>Price Rules and Vales of our Forum</span></span></a><span><span> .</span></span></p>
+<p style="text-align: center"><img class="aligncenter  wp-image-10957" src="http://www.prestashop.com/blog/es/files/2014/03/st-patricks-day-special-offer.jpg" alt="" width="284" height="284" /></p>
+<h4><span style="color: #008000"><span><span>May. </span><span>Allow your Customers Try Luck</span></span></span></h4>
+<p><span><span>In the same line of St. Patrick&#8217;s Day, invite your guests to try their luck. </span><span>The surprise boxes have gained much popularity lately and are a great way to do it. </span><span>Include a surprise box that offers an assortment of products. </span><span>If you can not sell the products in this way, you can provide a bit of &#8220;luck&#8221; to their customers offering a Surprise Gift with every purchase. </span><span>In any case, be sure to indicate the terms of the promotion in their return policy.</span></span></p>
+<h4><span style="color: #008000"><span><span>6. </span><span>Promote your Discounts</span></span></span></h4>
+<p><span><span>Getting a discount is good news! </span><span>Ask your followers in social networks collaborate to spread the message. </span><span>If possible, incentíveles. </span><span>Try this: &#8220;Tag your friend over to participate in the lucky draw for a product.&#8221; </span><span>Can not get enough traffic? </span><span>Send the details of your offer to blogs of interest in exchange for a discount for your readers and get additional traffic to your online store.</span></span></p>
+<p style="text-align: center"><img class="aligncenter  wp-image-10955" src="http://www.prestashop.com/blog/es/files/2014/03/retailmenot_logo_lg.png" alt="" width="305" height="94" /></p>
+<p><span><span>Do you have your offer prepared? </span><span>Send your coupon at </span></span><a href="http://www.retailmenot.com/submit" target="_blank"><span><span>RetailMeNot</span></span></a><span><span> !</span></span></p>
+<h4><span style="color: #008000"><span><span>7. </span><span>Measure Your Success</span></span></span></h4>
+<p><span><span>Use different coupon codes for each campaign to measure its success. </span><span>By ejmplo FBCLOVER to Facebook, Instagram and IGAFORTUNADO for 17DORADO for your promotional emails. </span><span>Unlike our previous advice, you may not see the benefits immediately. </span><span>However, measuring the success of each campaign, you&#8217;ll know where to invest their time and money on future campaigns. </span><span>The benefits will be seen over the longer term, when the enthusiasm wane.</span></span></p>
+<p style="text-align: center"><img class="aligncenter  wp-image-10953" src="http://www.prestashop.com/blog/es/files/2014/03/graph-Fotor030413505.jpg" alt="" width="294" height="222" /></p>
+<p><span><span>Which of these tips incorporate into their marketing plan offers St. Patrick&#8217;s Day? </span><span>Tell us what you think of our tips and share your best marketing tips for E-commerce in the comments below. </span><span>Also, get ready for the next Information occasions adding </span></span><a href="http://www.prestashop.com/blog/es/fechas-importantes-de-venta-para-vendedores-online-en-2014/" target="_blank"><span><span>major purchase dates</span></span></a><span><span> to your calendar.</span></span></p>
+<p><span><span>Still no online store? </span><span>Start testing our </span></span><a href="http://www.prestashop.com/es/demo" target="_blank"><span><span>demo</span></span></a><span><span> and then </span></span><a href="http://www.prestashop.com/es/descarga" target="_blank"><span><span>download</span></span></a><span><span> PrestaShop, the world&#8217;s leading solution e-commerce.</span></span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/7-consejos-de-marketing-para-sus-ventas-online-durante-el-dia-de-san-patricio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Respuestas a sus Preguntas sobre PrestaShop 1.6</title>
+		<link>http://www.prestashop.com/blog/es/respuestas-a-sus-preguntas-sobre-prestashop-1-6/</link>
+		<comments>http://www.prestashop.com/blog/es/respuestas-a-sus-preguntas-sobre-prestashop-1-6/#comments</comments>
+		<pubDate>Mon, 10 Mar 2014 18:55:21 +0000</pubDate>
+		<dc:creator>Benjamin Utterback</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10946</guid>
+		<description><![CDATA[La cuenta atrás ha comenzado para el lanzamiento de la esperadísima PrestaShop 1.6. Queremos que esté completamente preparado, por lo que hemos reunido todas las preguntas que nos ha realizado sobre 1.6 y nuestro equipo de desarrollo has ha respondido &#8230; <a href="http://www.prestashop.com/blog/es/respuestas-a-sus-preguntas-sobre-prestashop-1-6/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>La cuenta atrás ha comenzado para el lanzamiento de la esperadísima PrestaShop 1.6. Queremos que esté completamente preparado, por lo que hemos reunido todas las preguntas que nos ha realizado sobre 1.6 y nuestro equipo de desarrollo has ha respondido pertinentemente.</p>
+<p style="text-align: center;"><strong> <a href="http://www.prestashop.com/blog/es/files/2014/03/ES_Answers-to-your-questions-about-1.6.jpg" target="_blank"><img class="aligncenter  wp-image-10950" title="ES_Answers to your questions about 1.6" src="http://www.prestashop.com/blog/es/files/2014/03/ES_Answers-to-your-questions-about-1.6.jpg" alt="" width="595" height="300" /></a></strong></p>
+<h4><span id="more-10946"></span></h4>
+<h4><strong><span style="text-decoration: underline;">Preguntas Generales</span></strong></h4>
+<p>&nbsp;</p>
+<p><strong>1. Me gustaría convencer a mis clientes para que se actualicen a la versión 1.6, pero se albergan dudas sobre los problemas que puedan surgir a la hora de actualizar. ¿Cómo puedo convencerles de que es seguro?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>La idea principal que debe comunicarle a sus clientes es que la versión 1.6 contiene un conjunto mínimo de cambios a los ficheros y la base de datos. Esto significa que el código del núcleo entre la versión 1.5 y la 1.6 es virtualmente la misma. La actualización desde 1.5 a 1.6 está muy pulida. Siga las mejores prácticas a la hora de comprobar una actualización en un <a href="http://www.prestashop.com/blog/en/set-up-a-test-server-for-your-online-store/">entorno de pruebas</a> primero y después no habrá necesidad de ser reacios a la 1.6.</p>
+<p><strong>2. ¿Cuáles son las tres razones principales por las que debería actualizar a 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Se han realizado mejoras increíbles en la interfaz y la experiencia de usuario tanto en el Front como en el Back Office haciendo que gestionar una tienda sea más sencillo que nunca. Hemos incluido e integrado la última tecnología en la versión 1.6. Estará usando el PrestaShop más rápido y flexible jamás creado. El nuevo cuadro de mandos en tiempo real le dará toda la información detallada que necesita para tomar mejores decisiones de negocio.</p>
+<p>Para más información, visite la <a href="http://www.prestashop.com/en/progress-1-6">Página de Progresos de 1.6</a></p>
+<p><strong>3. ¿Cuáles son las últimas tecnologías incorporadas a PrestaShop 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong><a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a> – “Font Awesome proporciona iconos vectoriales escalabres que pueden ser personalizados instantáneamente – tamaño, color, sombras y cualquier cosa que pueda ser hecha con CSS.”</p>
+<p style="padding-left: 30px;"><a href="http://d3js.org/">Data Driven Documents</a> – “D3.js es una librería JavaScript para manipular documentos basados en datos. D3 le ayuda a darle vista a sus datos utilizando HTML, SVG y CSS.”</p>
+<p style="padding-left: 30px;"><a href="http://compass-style.org/">Sass Compass</a> – “Compass es un Framework de Creación CSS Open Source. Utiliza Sass para generar CSS bien formateado y facilitar la organización y el mantenimiento de sus Hojas de Estilo.”</p>
+<p style="padding-left: 30px;"><a href="http://getbootstrap.com/">Bootstrap</a> – “Bootstrap es un framework de interfaz de usuario pulcro, intuitivo y potente con orientación móvil para facilitar y acelerar el desarrollo web.”</p>
+<p>4. <strong>Me gustaría mejorar la traducción de PrestaShop a mi idioma. ¿Cómo puedo ayudar?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Estamos gestionando las traducciones de PrestaShop 1.6 con la plataforma de traducción colaborativa Crowdin. Todo lo que necesita hacer es registrarse en <span style="text-decoration: underline;">Crowdin.net</span> y <a href="https://crowdin.net/project/prestashop-official/">unirse a nuestro proyecto</a><span style="text-decoration: underline;">.</span></p>
+<p> <strong>5. Tengo un problema con 1.6 ¿Dónde puedo encontrar soporte?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Disponemos de varias opciones de soporte. El foro de la comunidad y el gestor de incidencias de la forja son las mejores herramientas además de nuestros planes oficiales de soporte.</p>
+<p style="padding-left: 60px;"> <a href="http://www.prestashop.com/forums">Foros de la Comunidad<br />
+</a><a href="http://forge.prestashop.com/secure/Dashboard.jspa">Gestor de Incidencias de la Forja<br />
+</a><a href="https://www.prestashop.com/en/support">Planes de Soporte </a></p>
+<p> 6. <strong>¿Daréis soporte a la versión 1.5 después de lanzar la 1.6? ¿Cuándo abandonaréis el soporte de la 1.5?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>No habrá nuevos lanzamientos de la versión 1.5. Sin embargo, la 1.6 funciona con el mismo núcleo. Puede ver el código y los parches publicados en <a href="https://github.com/PrestaShop/PrestaShop">GitHub</a>. Durante algunas semanas tras el lanzamiento de 1.6, no será posible registrar incidencias para la 1.5 en la Forja.</p>
+<p>&nbsp;</p>
+<h4><strong><span style="text-decoration: underline;">Preguntas Sobre la Actualización</span></strong></h4>
+<p>&nbsp;</p>
+<p><strong>1. ¿Cuál es la mejor forma de actualizarse a 1.6 si estoy utilizando 1.4 (o inferior)? ¿Actualizo primero a 1.5 y luego a 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>No, la mejor forma es actualizar directamente a 1.6. Recuerde probar cualquier actualización antes de actualizar su tienda en producción.</p>
+<p><strong>2. ¿Cómo sé si la actualización funcionará?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>La forma recomendada de actualizar es <a href="http://www.prestashop.com/blog/en/set-up-a-test-server-for-your-online-store/">probar la actualización en un entorno de pruebas</a>. Asegúrese de realizar una copia de seguridad manual de su tienda en producción. <a href="http://doc.prestashop.com/display/PS15/Updating+PrestaShop">Siga nuestra Guía de Actualización</a>. Nunca actualice una tienda en producción sin probarla primero.</p>
+<p><strong>3. ¿Qué puedo hacer si la actualización automática fallase? ¿Hay alguna otra manera de actualizar?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Oficialmente, no damos soporte a otros métodos de actualización. <a href="http://doc.prestashop.com/display/PS15/Manual+update">La actualización manual está obsoleta y no se recomienda.</a></p>
+<p>&nbsp;</p>
+<h4><strong><span style="text-decoration: underline;">Preguntas Sobre Compatibilidad</span></strong></h4>
+<p>&nbsp;</p>
+<p><strong>1. ¿Cómo puedo saber si mi plantilla y módulos son compatibles con la 1.6?</strong></p>
+<p style="padding-left: 30px;">Módulos: Contacte con el creador del módulo para recibir actualizaciones. Todos los módulos desarrollados por PrestaShop son compatibles. Si bien, puede probar instalando el módulo: si no ve ningún error, el módulo es compatible y tiene compatibilidad con Addons. Debería instalar módulos en un entorno de pruebas antes de instalarlo en su tienda en producción.</p>
+<p style="padding-left: 30px;">Plantillas: Todos los temas de la 1.5 serán compatibles con la versión 1.6, pero algunos diseños podrían sufrir pequeñas variaciones respecto al original. Esto se debe a diferentes posiciones de los módulos y al nuevo tema por defecto de dos columnas de la 1.6. Contacte con el desarrollador del tema para recibir nuevas actualizaciones.</p>
+<p> 2. <strong>¿Qué pasa si mi plantilla no es compatible con Bootstrap? ¿Puede ser una incidencia con 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Incluso si su plantilla no es compatible con Bootstrap, funcionará en 1.6. Sin embargo, no podrá aprovechar los beneficios de Bootstrap en dispositivos móviles. Debería ser completamente compatible con cualquier otra plantilla.</p>
+<p>&nbsp;</p>
+<p>3. <strong>Mis módulos preferidos no van a ser actualizados a 1.6, ¿Qué puedo hacer?</strong></p>
+<p style="padding-left: 30px;">Puede contactar con el creador para saber qué planes de compatibilidad tienen en mente. En cualquier otro caso, puede contactar con una agencia o un desarrollador freelance para hacer los cambios necesarios al módulo.</p>
+<p>&nbsp;</p>
+<h4><strong><span style="text-decoration: underline;">Errores e Incidencias</span></strong></h4>
+<p><strong>1. ¿Cómo puedo saber si cierto bug ha sido arreglado en 1.6?</strong></p>
+<p style="padding-left: 30px;">Busque el bug en <a href="http://forge.prestashop.com/secure/Dashboard.jspa">Gestor de Incidencias de la Forja</a> y compruebe su estado. El listado de cambio también muestra todas las incidencias que han sido arregladas desde el último lanzamiento.</p>
+<p><strong>2. ¿Qué bugs han sido arreglados desde la 1.5?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>El listado de cambios le dará toda la información necesaria.</p>
+<p><strong>3. Las tasas e impuestos siempre me han dado problemas, ¿Serán más fáciles en 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Somos conscientes del trabajo pendiente en los impuestos y tasas en PrestaShop. Se publicarán diversos parches en la 1.6 aunque queda mucho por hacer. Esperamos una gran actualización en las tasas en los próximos meses, pero le recomendamos que comience a migrar sin esperar que estos cambios en la 1.6 por ahora.</p>
+<p><strong>4. He observado algunos bugs y la ausencia de algunas características mientras probaba 1.6, ¿Dónde las reporto?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>La Forja es el lugar idóneo para reportar incidencias y características desaparecidas. También puede visitar nuestra página en Github y los cambios del repositorio de la 1.6.</p>
+<p><strong>5. ¿Existe alguna hoja de ruta sobre la futura funcionalidad de 1.6?</strong></p>
+<p style="padding-left: 30px;"><strong></strong>Anunciaremos próximamente nuestra hoja de ruta e iremos actualizándola progresivamente.</p>
+<p>Preste atención a nuestro blog para recibir más noticias que le ayuden a prepararse para PrestaShop 1.6</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/respuestas-a-sus-preguntas-sobre-prestashop-1-6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Qué es Bootstrap? – La Historia y el Bombo: Parte 1 de 2</title>
+		<link>http://www.prestashop.com/blog/es/que-es-bootstrap-la-historia-y-el-bombo-parte-1-de-2/</link>
+		<comments>http://www.prestashop.com/blog/es/que-es-bootstrap-la-historia-y-el-bombo-parte-1-de-2/#comments</comments>
+		<pubDate>Thu, 06 Mar 2014 09:57:45 +0000</pubDate>
+		<dc:creator>Xavier du Tertre</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10942</guid>
+		<description><![CDATA[¿Qué es Bootstrap? Si tiene una web, lo más probable es que haya leído la palabra “Bootstrap” mientras ojeaba artículos sobre diseño y desarrollo. Quizás haya entreoído la palabra “Bootstrap” en medio de alguna conversación de diseñadores web en cualquier &#8230; <a href="http://www.prestashop.com/blog/es/que-es-bootstrap-la-historia-y-el-bombo-parte-1-de-2/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¿Qué es Bootstrap? Si tiene una web, lo más probable es que haya leído la palabra “Bootstrap” mientras ojeaba artículos sobre diseño y desarrollo. Quizás haya entreoído la palabra “Bootstrap” en medio de alguna conversación de diseñadores web en cualquier cafetería o bar del mundo. Ellos saben qué es Bootstrap y los enormes beneficios que aporta al mundo del desarrollo web. Pero, ¿sabe por qué insistir en utilizar Bootstrap en su web es una sabia decisión?</p>
+<p>En esta serie de dos artículos, repasaré la historia de Bootstrap, qué es Bootstrap exactamente, además de los múltiples motivos sobre por qué incorporar Bootstrap en su próxima web es un buen movimiento.</p>
+<p style="text-align: center;"><a href="http://www.prestashop.com/blog/en/files/2014/02/Bootstrap.png"><img class="aligncenter  wp-image-16071" title="Bootstrap" src="http://www.prestashop.com/blog/en/files/2014/02/Bootstrap.png" alt="" width="554" height="257" /></a></p>
+<h3><span id="more-10942"></span></h3>
+<h3><span style="color: #4a772b;">La Historia de Bootstrap</span></h3>
+<p>En 2011, Bootstrap se creó como solución interna para solucionar las inconsistencias en el desarrollo dentro del equipo de ingeniería de Twitter. Basicamente, no se había establecido ninguna convención sobre las formas en las que los ingenieros de Twitter elegían cómo desarrollar la plataforma.</p>
+<p>El desarrollo y la ingeniería web es un oficio, mucho incluso dicen que un arte, y cada ingeniero tiene su propio estilo de hacer las cosas. En algunos casos funciona, pero cuando hay multitud de ingenieros trabajando en el mismo proyecto con distintas formas de abordar los problemas, las inconsistencias son inevitables. Las inconsistencias en el desarrollo web pueden fermentar y evolucionar en problemas de codificación fuertemente enraizados que generan incertidumbre y aumentar los costes de mantenimiento. Bootstrap fue una herramienta originalmente desarrollada por (previamente) ingenieros en Twitter: Mark Otto y Jacob Thorton como un intento de fomentar la utilización del mismo framework para minimizar las inconsistencias en el equipo de ingeniería de Twitter. Ni que decir tiene, que la iniciativa de Bootstrap triunfó en Twitter puesto que el equipo completo comentó a trabajar más rápido, de forma más eficaz y con menos inconsistencias.</p>
+<p>Aunque comenzó como una solución interna en Twitter, Mark y Jacob, pronto se dieron cuenta de que aquello tendría un gran potencial. En Agosto de 2011, <a href="https://blog.twitter.com/2011/bootstrap-twitter">el framework Bootstrap fue lanzado al público</a> como proyecto Open Source en Github. En los siguientes meses, miles de desarrolladores de todo el mundo contribuyeron al proyecto y Bootstrap se convirtió en el proyecto Open Source más activo del mundo. Desde entonces, Bootstrap solo ha ganado más notoriedad y se ha convertido en “el framework de presentación más popular para desarrollar proyectos responsive y para móviles en Internet”.</p>
+<p style="text-align: center;"><a href="http://www.prestashop.com/blog/en/files/2014/02/Boot.png"><img class="aligncenter  wp-image-16072" title="Boot" src="http://www.prestashop.com/blog/en/files/2014/02/Boot.png" alt="" width="562" height="255" /></a></p>
+<h3></h3>
+<h3><span style="color: #4a772b;">Entonces… ¿Qué <em>es</em> exactamente Bootstrap?</span></h3>
+<p>Simplificando, Bootstrap es una colección de varios elementos web personalizables y funciones completamente empaquetado en una sola herramienta. Cuando se diseña una web con Bootstrap, los desarrolladores pueden elegir qué elementos utilizar. Aún más importante, tienen la certeza de saber que los elementos que elijan no generarán conflictos entre ellos. Como si se tratase de un puzle, exceptuando que cada pieza del puzle encaja perfectamente con las otras, sin importar la pieza que elija.</p>
+<p>Los elementos personalizabes de Bootstrap son una combinación de HTML, CSS y JavaScript. Gracias a las bondades del Open Source, Bootstrap vive en una mejora continua. Se le han añadido una variedad de funcionalidades tales como responsividad 100% a dispositivos móviles y una selección amplia de plugins jQuery.</p>
+<p>En agosto de 2013, tras dos años del lanzamiento original, salió Bootstrap 3. La última versión tiene un nuevo diseño, mejor gestión de errores, mejores opciones de personalización y otras tantas mejoras que facilitan la vida de los desarrolladores.<br />
+<a href="http://www.prestashop.com/blog/en/files/2014/02/prestashop_1-61.png"><img style="width: 275px; margin: auto; display: block; margin-left: 15px;" title="prestashop_1-6" src="http://www.prestashop.com/blog/en/files/2014/02/prestashop_1-61.png" alt="" align="right" /></a><br />
+Es cierto: a PrestaShop le encanta el framework Bootstrap. Hace unos meses, <a href="http://bit.ly/19WyODP">Mark Otto, compartió sus percepciones sobre PrestaShop, Bootstrap y la industria del E-commerce en este vídeo</a>.</p>
+<p>Todo esto se traduce en buenas noticias para los desarrolladores y propietarios de webs. Manténgase al corriente para la segunda parte en la que responderé a la gran cuestión: ¿por qué debería insistir en utilizar Bootstrap en su web? Gracias por su lectura. Anímese a compartir sus ideas sobre PrestaShop y Bootstrap en los comentarios.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/que-es-bootstrap-la-historia-y-el-bombo-parte-1-de-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gira Mundial PrestaShop: Pat Chun Vende Comida Tradicional China En Todo El Mundo</title>
+		<link>http://www.prestashop.com/blog/es/gira-mundial-prestashop-pat-chun-vende-comida-tradicional-china-en-todo-el-mundo/</link>
+		<comments>http://www.prestashop.com/blog/es/gira-mundial-prestashop-pat-chun-vende-comida-tradicional-china-en-todo-el-mundo/#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 17:15:21 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10934</guid>
+		<description><![CDATA[El mercado del e-commerce en China está creciendo rápidamente. De hecho, China es el mercado en e-commerce que más rápido crece con un crecimiento anual del 70%. Cada vendedor online tiene su historia y la historia de Pat Chun comienza &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-prestashop-pat-chun-vende-comida-tradicional-china-en-todo-el-mundo/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/badge-128x128.png" alt="" />El mercado del e-commerce en China está creciendo rápidamente. De hecho, China es el mercado en e-commerce que más rápido crece con un crecimiento anual del 70%.</p>
+<p>Cada vendedor online tiene su historia y la historia de Pat Chun comienza hace 80 años en Hong Kong. Dado el éxito de la empresa familiar de venta de productos alimenticios chinos tradicionales, Pat Chun decidió llevar su negocio a Internet hace 10 años. Hoy, continúan vendiendo sus deliciosos manjares en todo el mundo utilizando PrestaShop.</p>
+<p><img class="aligncenter size-full wp-image-10935" title="IMG_6057" src="http://www.prestashop.com/blog/es/files/2014/03/IMG_6057.jpg" alt="" width="595" height="410" /><br />
+<span id="more-10934"></span><br />
+Trevor Ng, Director Ejecutivo de Pat Chun, comparte su estrategia online y cómo gestionan la comunicación offline para atraer tráfico a su tienda online. Además nos expone el por qué una tienda online es la manera perfecta de hablar directamente con tus clientes.</p>
+<p>Trevor nos dio una vuelta por la fábrica de Pat Chun, ¡véalo en el vídeo!</p>
+<p><iframe src="//player.vimeo.com/video/88235318" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/88235318">Ecommerce WorldTour &#8211; Pat Chun online store, Hong-Kong</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Siguiente Parada: ¡<span style="color: #333333;"><strong>Nueva Zelanda</strong></span>!</p>
+<p>Participe la Gira Mundial de PrestaShop con el hashtag #PSWorldTour y siga nuestro viaje en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a>, <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a> y <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-prestashop-pat-chun-vende-comida-tradicional-china-en-todo-el-mundo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fecha de Lanzamiento de la Versión 1.6: Envíe sus Preguntas a nuestro Equipo de Desarrollo</title>
+		<link>http://www.prestashop.com/blog/es/fecha-de-lanzamiento-de-la-version-1-6-envie-sus-preguntas-a-nuestro-equipo-de-desarrollo/</link>
+		<comments>http://www.prestashop.com/blog/es/fecha-de-lanzamiento-de-la-version-1-6-envie-sus-preguntas-a-nuestro-equipo-de-desarrollo/#comments</comments>
+		<pubDate>Tue, 04 Mar 2014 13:29:17 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10927</guid>
+		<description><![CDATA[¡Ya es oficial! Tras la espera nos complace anunciarle que la versión 1.6 de PrestaShop será lanzada el próximo día 17 de marzo a las 12:00PM (hora del Este; New York; UTC-5) ¿Tiene alguna pregunta sobre esta nueva y revolucionaria &#8230; <a href="http://www.prestashop.com/blog/es/fecha-de-lanzamiento-de-la-version-1-6-envie-sus-preguntas-a-nuestro-equipo-de-desarrollo/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/prestashop_1-6.png" alt="" /><br />
+¡Ya es oficial! Tras la espera nos complace anunciarle que la versión 1.6 de PrestaShop será lanzada el próximo día <strong>17 de marzo a las 12:00PM</strong> (hora del Este; New York; UTC-5)</p>
+<p>¿Tiene alguna pregunta sobre esta nueva y revolucionaria versión de PrestaShop? ¡Estaremos encantados de contestársela! Envíe sus preguntas sobre la versión 1.6 a nuestro equipo de desarrollo desde hoy hasta el jueves de esta semana.<br />
+<span id="more-10927"></span></p>
+<p><strong><span style="color: #333333;">Puede escribirnos a la siguiente dirección</span> <a href="mailto:Ask@PrestaShop.com">Ask@PrestaShop.com</a><span style="color: #333333;">.</span></strong></p>
+<p>¡Preste atención al blog de PrestaShop para conocer las respuestas!</p>
+<p><strong>¿Quiere conocer más sobre PrestaShop 1.6? Vea el <a href="http://vimeo.com/75405291" target="_blank">vídeo</a> y lea estas entradas en el blog.</strong></p>
+<p style="padding-left: 60px;"><a href="http://www.prestashop.com/blog/en/prestashop-v-1-6-back-office-whats-new-and-improved/ " target="_blank">Back Office de PrestaShop 1.6: Novedades y mejoras</a></p>
+<p style="padding-left: 60px;"><a href="http://www.prestashop.com/blog/es/prestashop-version-1-6-un-vistazo-al-rediseno-del-front-office/">PrestaShop 1.6: Un vistazo al rediseño del Front Office</a></p>
+<p style="padding-left: 60px;"><a href="http://www.prestashop.com/blog/es/presentacion-del-nuevo-cuadro-de-mandos-de-prestashop-1-6/" target="_blank">Presentación del Nuevo Cuadro de Mandos de PrestaShop 1.6</a></p>
+<p>¡La cuenta atrás para el lanzamiento de la versión 1.6 de PrestaShop comienza ahora!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/fecha-de-lanzamiento-de-la-version-1-6-envie-sus-preguntas-a-nuestro-equipo-de-desarrollo/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Omnicanalidad: El futuro del comercio</title>
+		<link>http://www.prestashop.com/blog/es/omnicanalidad-el-futuro-del-comercio/</link>
+		<comments>http://www.prestashop.com/blog/es/omnicanalidad-el-futuro-del-comercio/#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 16:00:01 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10921</guid>
+		<description><![CDATA[En los últimos años, el desarrollo tecnológico ha propiciado importantes cambios en el comportamiento de los consumidores. Actualmente estamos ante un consumidor mucho más formado, que busca información sobre los productos que consume a través de Internet, compara precios, genera &#8230; <a href="http://www.prestashop.com/blog/es/omnicanalidad-el-futuro-del-comercio/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>En los últimos años, el desarrollo tecnológico ha propiciado importantes cambios en el comportamiento de los consumidores. Actualmente estamos ante un consumidor mucho más formado, que busca información sobre los productos que consume a través de Internet, compara precios, genera opiniones sobre dichos productos y elige en cada momento cómo, cuándo y dónde completar su compra.</p>
+<p>La tecnología ha favorecido y facilitado que el consumidor incorpore a su proceso de compra múltiples dispositivos: el teléfono móvil, la tableta, el ordenador o incluso la televisión y la tienda física intervienen habitualmente en el proceso de compra.</p>
+<p><img class="aligncenter size-medium wp-image-10922" title="ebay-logo" src="http://www.prestashop.com/blog/es/files/2014/02/ebay-logo-300x123.jpg" alt="" width="300" height="123" /><br />
+<span id="more-10921"></span></p>
+<p>La omnicanalidad, o “comercio conectado”, es la verdadera revolución que se está produciendo actualmente y en la que la frontera entre el comercio offline y online va desapareciendo a medida que avanza la multicanalidad del consumidor. Ahora todo es comercio sin más.</p>
+<p>En este nuevo mundo, el comercio se expande más allá de los muros de la tienda física y online y genera nuevas oportunidades. Las expectativas de los consumidores crecen, exigen más control sobre la experiencia de compra y se hace cada vez más necesario crear una experiencia exclusiva para el consumidor en todos los canales que intervienen en su proceso de compra.</p>
+<h2><span style="color: #15a223;">El partner adecuado</span></h2>
+<p>Algunas tiendas tanto online como físicas están teniendo dificultades para adaptarse a este nuevo entorno digital y necesitan un partner adecuado que les ayude aprovechar las nuevas oportunidades generadas por el entorno omnicanal.</p>
+<p>Por varias razones, eBay se posiciona como una de las alternativas más interesantes para impulsar la estrategia multicanal de cualquier pequeña y mediana empresa. Por un lado, cuenta con más de 128 millones de usuarios activos en el mundo, lo que supone un canal de venta alternativo muy importante a tener en cuenta. Esta plataforma de comercio electrónico ayudará a que tus productos lleguen a nuevos compradores tanto locales como en cualquier parte del mundo. ¿Por qué conformarnos con vender a consumidores locales cuando nuestro producto puede interesar a muchas personas en otros países?</p>
+<p>Por otra parte, quien piense que eBay consiste solo en subastas y productos de segunda mano, se equivoca. eBay ha cambiado, y mucho. Actualmente, el 75% de los productos que se venden en la plataforma son artículos completamente nuevos y en formato precio fijo. Además, hace tiempo que eBay entendió que el comercio a través de dispositivos móviles es el catalizador que impulsará el comercio del futuro, por ello están plenamente centrados en el desarrollo y uso de la tecnología móvil para impulsar y asegurar una experiencia de comercio multicanal innovadora para minoristas locales, nacionales y globales.</p>
+<h2><span style="color: #15a223;">eBay y PrestaShop</span></h2>
+<p>PrestaShop, consciente de las nuevas tendencias en el ámbito del comercio, se asocia en 2012 con eBay. Desde entonces, trabajan juntos para desarrollar un módulo que te permite duplicar tu inventario y vender de forma fácil y cómoda en eBay. El módulo está pensado para que desde el backoffice de PrestaShop puedas controlar tanto el inventario y los pedidos de tu tienda PrestaShop como los de eBay. <a href="http://addons.prestashop.com/es/afiliacion-prestashop-modulos/2742-ebay.html" target="_blank">Puedes descargar el módulo de forma gratuita</a>. Aprovecha todas las ventajas del nuevo entorno omnicanal de la mano del líder del comercio electrónico a nivel mundial.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/omnicanalidad-el-futuro-del-comercio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gira Mundial PrestaShop: Stepworks Comparte Las Tendencias en E-commerce de Hong Kong</title>
+		<link>http://www.prestashop.com/blog/es/gira-mundial-prestashop-stepworks-comparte-las-tendencias-en-e-commerce-de-hong-kong/</link>
+		<comments>http://www.prestashop.com/blog/es/gira-mundial-prestashop-stepworks-comparte-las-tendencias-en-e-commerce-de-hong-kong/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 14:59:46 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10914</guid>
+		<description><![CDATA[Nuestro viaje por Asia continúa y decidimos hacer una parada en Hong Kong para conocer nuestra Comunidad allí y entender cómo funciona el mercado del e-commerce en China. Tuvimos el placer de conocer a Shadow y Chien, ambos Directores de &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-prestashop-stepworks-comparte-las-tendencias-en-e-commerce-de-hong-kong/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/02/badge-128x1282.png" alt="" />Nuestro viaje por Asia continúa y decidimos hacer una parada en Hong Kong para conocer nuestra Comunidad allí y entender cómo funciona el mercado del e-commerce en China.</p>
+<p>Tuvimos el placer de conocer a Shadow y Chien, ambos Directores de Cuentas en Stepworks, una agencia web que utiliza PrestaShop para desarrollar tiendas online de buen gusto a sus clientes.</p>
+<p style="text-align: left;"><img class="aligncenter  wp-image-10915" title="Hong kong" src="http://www.prestashop.com/blog/es/files/2014/02/Hong-kong.jpeg" alt="" width="540" height="360" /><br />
+<span id="more-10914"></span><br />
+Hoy, compartirán con nosotros sus consejos sobre e-commerce y cómo utilizan las redes sociales para mejorar la visibilidad de su marca. Así mismo, también nos cuentan por qué Hong Kong es un mercado muy particular en el e-commerce para los negocios online y qué importancia tiene disponer de una versión web adaptada a móviles en 2014.</p>
+<p><strong><span style="color: #333333;">¡Vea el vídeo para conocer a Shadow y Chien!</span></strong></p>
+<p><iframe src="//player.vimeo.com/video/87668922" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/87668922">Ecommerce WorldTour &#8211; Stepworks Agency, Hong-Kong</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>¡Continúe para seguir nuestro viaje a través de <span style="color: #333333;"><strong>Hong Kong</strong></span>!</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-10916" title="Q in HK" src="http://www.prestashop.com/blog/es/files/2014/02/Q-in-HK.jpeg" alt="" width="257" height="385" /></p>
+<p>Participe la Gira Mundial de PrestaShop con el hashtag <span style="color: #333333;"><strong>#PSWorldTour</strong></span> y siga nuestro viaje en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a>, <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a> y <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-prestashop-stepworks-comparte-las-tendencias-en-e-commerce-de-hong-kong/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Montar una Tienda Online: 10 Preguntas Antes de Contratar a Un Desarrollador E-commerce</title>
+		<link>http://www.prestashop.com/blog/es/montar-una-tienda-online-10-preguntas-antes-de-contratar-a-un-desarrollador-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/es/montar-una-tienda-online-10-preguntas-antes-de-contratar-a-un-desarrollador-e-commerce/#comments</comments>
+		<pubDate>Thu, 20 Feb 2014 14:19:52 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=10903</guid>
+		<description><![CDATA[¿Tiene planeado utilizar los servicios de un profesional para montar su tienda online? Si no es desarrollador y dispone de pocos conocimientos técnicos, puede ser difícil encontrar al profesional adecuado para su proyecto. No se preocupe, no es el único &#8230; <a href="http://www.prestashop.com/blog/es/montar-una-tienda-online-10-preguntas-antes-de-contratar-a-un-desarrollador-e-commerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¿Tiene planeado utilizar los servicios de un profesional para montar su tienda online? Si no es desarrollador y dispone de pocos conocimientos técnicos, puede ser difícil encontrar al profesional adecuado para su proyecto. No se preocupe, no es el único con este problema. ¡Estamos aquí para ayudarle!</p>
+<p>Para facilitarle tomar la mejor decisión, hemos recopilado 10 preguntas que debe hacer antes de contratar a un desarrollador e-commerce para montar su tienda. Antes de emplear su tiempo y su dinero, reflexione sobre estas cuestiones y piense que respuestas debe esperar.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-10906" title="ES_10 questions to ask before hiring an ecommerce developer" src="http://www.prestashop.com/blog/es/files/2014/02/ES_10-questions-to-ask-before-hiring-an-ecommerce-developer.jpg" alt="" width="540" height="312" /><br />
+<span id="more-10903"></span></p>
+<h4><span style="color: #04948b;">1. ¿Con qué plataformas e-commerce has montado tiendas online?</span></h4>
+<p>Esto es algo que debería investigar en profundidad previa entrevista a los candidatos. Necesita encontrar una plataforma e-commerce que sea potente, intuitiva y le resulte fácil de gestionar. Por que, al fin y al cabo, una vez que el desarrollador termine de montar su tienda online, usted será el encargado de trabajar con ella a diario.</p>
+<p>Durante su búsqueda de información, preste atención a las numerosas (y caras) soluciones de e-commerce disponibles en el mercado. Lo más probable es que no quiera quedar atrapado en una en la que deba pagar cuantiosas cuotas mensuales o una gran comisión por todas sus ventas. <a href="http://www.prestashop.com/es/descarga" target="_blank">PrestaShop</a> es una solución totalmente gratuita y contiene todas las herramientas que necesita paga gestionar su tienda online eficazmente. Y lo más importante: posee una gran flexibilidad, por lo que su desarrollador podrá personalizar completamente la tienda a su gusto.</p>
+<h4><span style="color: #04948b;">2. ¿Qué experiencia tiene creando tiendas online?</span></h4>
+<p>No se deje impresionar por el montón de tecnicismos que utilice el desarrollador. Pídale ver varios ejemplos en funcionamiento de tiendas online que haya construido. Preste mucha atención a la experiencia de usuario, a las características y al diseño de cada página que le muestre. Así mismo, también usted debería mostrar una idea básica de los que está buscando y pedirle al desarrollador que le muestre diversas tiendas online que el crea capacitado de replicar.</p>
+<p>Asumo que no quiere que su tienda online pase de moda rápidamente, para ello eche un vistazo a <a href="http://econsultancy.com/blog/64096-18-pivotal-web-design-trends-for-2014" target="_blank">las tendencias de diseño en 2014 de Econsultancy</a>.</p>
+<h4><span style="color: #04948b;">3. ¿Cuáles serán las condiciones de nuestro contrato?</span></h4>
+<p>En cualquier caso, siempre deberá tener un acuerdo por escrito que remarque lo siguiente:</p>
+<p style="padding-left: 30px;"><strong><span style="color: #333333;">Tarifas y condiciones de pago</span></strong> – Algunos desarrolladores prefieren especificar una tarifa por horas de trabajo y otros prefieren presupuestar proyecto al completo.<br />
+<span style="color: #333333;"><strong>Tarifas extraordinarias</strong></span> – Debe comprender exactamente qué se incluye en las tarifas. Un error muy frecuente es encontrarse gastos extra que debería haber negociado previamente: alojamiento web, certificados SSL, funcionalidad adicional, diseño o copias de seguridad.<br />
+<span style="color: #333333;"><strong>Fechas de entrega</strong></span> – Indique una fecha o varios hitos en los que el proyecto o diferentes entregables del proyecto deberían estar listos. Incluya una cláusula en su acuerdo que indique qué hacer en caso de retraso.<br />
+<span style="color: #333333;"><strong>Lista de control</strong></span> – Anote todo lo que espera que sea entregado al final del desarrollo.<br />
+<strong><span style="color: #333333;">Garantías y Soporte</span></strong> – ¿Qué tarifas de mantenimiento se aplicará tras el fin del proyecto? ¿Cuál es el tiempo de respuesta que puede esperar tras realizar una petición de soporte?</p>
+<p>Eche un vistazo a este <a href="http://www.rainbow-studios.co.uk/sample-contract/ " target="_blank">contrato de ejemplo</a> para facilitarle el trabajo.</p>
+<h4><span style="color: #04948b;">4. ¿Cómo nos pondremos en contacto?</span></h4>
+<p>Esta es una de esas cuestiones que a menudo quedan en el olvido, pero es importante que se establezcan los medios de comunicación durante el desarrollo de su tienda online. Le interesa implicarse durante el proceso, no sólo cuando haya finalizado.</p>
+<p>Además, le sugiero utilizar alguna herramienta de gestión de proyectos como <a href="https://asana.com/" target="_blank">Asana</a> o <a href="https://basecamp.com/" target="_blank">Basecamp</a> para organizar toda la información comunicada y mantenerse informado sobre los progresos del desarrollo.</p>
+<h4><span style="color: #04948b;">5. ¿Qué funcionalidad adicional desarrollará para mi tienda online?</span></h4>
+<p>Quizás sea una cuestión un tanto técnica, pero realmente debería establecer claramente con el desarrollador cuánto trabajo de más pondrá.</p>
+<p style="padding-left: 30px;">- ¿Utilizará un tema existente o lo creará uno a medida?<br />
+- ¿Desarrollará alguna funcionalidad desde cero?<br />
+- Asegúrese de que cada uno de estos elementos aparecen en su acuerdo por escrito.</p>
+<p>Si tiene pensado utilizar PrestaShop, puede encontrar innovadoras características adicionales en el <a href="http://addons.prestashop.com/es/" target="_blank">Marketplace Oficial de PrestaShop</a>.</p>
+<h4><span style="color: #04948b;">6. ¿Dispondrá mi e-commerce de una versión para móviles?</span></h4>
+<p>A día de hoy resulta obligatorio. Deberá ser capaz de ofrecer a sus clientes una experiencia de compra pulida desde el móvil o la tablet. Consulte con el desarrollador qué tiene pensado hacer para asegurar que su tienda online será funcional y responsive desde el móvil.</p>
+<p>Este artículo le ayudará a entender los distintos elementos que necesita tener en cuenta si quiere optimizar su <a href="http://www.prestashop.com/blog/es/por-que-el-100-de-las-tiendas-online-necesitaran-una-version-compatible-con-movil-y-tablet-en-2014/" target="_blank">e-commerce para quienes le visitan desde el móvil</a>.</p>
+<h4><span style="color: #04948b;">7. ¿Cómo piensa facilitarme editar y gestionar mi tienda online?</span></h4>
+<p>Una vez que su tienda online esté en funcionamiento, necesitará subir contenido, fotos, banners, etc. Incluso puede que quiera añadir o modificar características de su tienda. Descubra qué hará el desarrollador para asegurar que usted podrá editar su pagina sin complicarle la existencia cada vez que lo necesite.</p>
+<p>Debería tener acceso a absolutamente todo. Algún día puede que el desarrollador no siga trabajando para usted y necesite transmitir las contraseñas y el código con un nuevo desarrollador. Asegúrese de que todos los ficheros y credenciales le serán informados. Usted debería ser dueño de todas las cuentas asociadas a su sitio. Así mismo, le recomiendo encarecidamente que le pida a su desarrollador que le explique cómo se están realizando las copias de seguridad de su sitio.</p>
+<h4><span style="color: #04948b;">8. ¿Qué elementos básicos de SEO integrará?</span></h4>
+<p>El desarrollador debería implementar las mejores prácticas conocidas de SEO y facilitarle que usted pueda actualizar su estrategia SEO dada la necesidad. ¡Todo el dinero que emplee en su tienda online podría perderse si sus clientes no pueden encontrarle! Aquí tiene un tutorial rápido sobre los elementos básicos que mejorarán el <a href="http://www.prestashop.com/blog/en/5-profitable-tips-to-drastically-improve-seo-for-your-online-store/ " target="_blank">SEO de su tienda online</a>.</p>
+<h4><span style="color: #04948b;">9. ¿Cómo le ayudará a medir los indicadores clave de desempeño (KPIs)?</span></h4>
+<p>Esto es algo que debe gestionar por anticipado. Entienda cómo podrá medir el rendimiento de su sitio. La buena noticia: en el Back Office de su tienda PrestaShop puede consultar cientos de KPIs. Sin embargo, el desarrollador también deberá mostrarle cómo medir elementos específicos de su tienda online con Google Analytics.</p>
+<p>Aprenda más sobre <a href="http://www.prestashop.com/blog/es/los-10-kpis-que-todo-propietario-de-una-tienda-online-deberia-tener-vigilados/" target="_blank">los mejores indicadores clave de desempeño para un e-commerce</a>.</p>
+<h4><span style="color: #04948b;">10. ¿Cómo realizará pruebas?</span></h4>
+<p>Su tienda online puede tener un aspecto fantástico, pero si no funciona, ¿para qué sirve? El desarrollador debería seguir las mejores prácticas a la hora de realizar pruebas en ella. Asegúrese de que el desarrollador está utilizando un entorno de pruebas y no realiza cambios directamente en su tienda en producción sin realizar las pruebas primero. Hágale explicar cuál es su proceso de pruebas, documentación de errores y de arreglos rápidos.</p>
+<p>Este tipo de información le evitará tener que pagar por soporte adicional una vez haya completado su proyecto. Asegúrese de que las pruebas se realizan desde distintos dispositivos móviles, navegadores, ordenadores y países.</p>
+<p>Este artículo de Practial Ecommerce le proporcionará una <a href="http://www.practicalecommerce.com/articles/4036-What-to-Test-on-an-Ecommerce-Site " target="_blank">lista de control de qué probar en una Tienda Online</a>.</p>
+<h4><span style="color: #04948b;">¡Ya está listo para salir a buscar al desarrollador indicado para su tienda online!</span></h4>
+<p>Somos conscientes de que hay multitud de plataformas e-commerce disponibles, pero si buscas una solución potente, fácil de usar y altamente personalizable PrestaShop es la respuesta. Vea nuestro breve vídeo sobre la próxima <a href="http://vimeo.com/75405291" target="_blank">versión 1.6 de PrestaShop</a> y observe todo lo que podemos aportarle como vendedor online.</p>
+<p>¿Necesita ayuda para encontrar a un desarrollador e-commerce? Descubra nuestra lista de <a href="http://www.prestashop.com/es/asociados-agencia-web" target="_blank">agencias web asociadas</a> de renombre, ¡las mejores de su clase!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/montar-una-tienda-online-10-preguntas-antes-de-contratar-a-un-desarrollador-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.prestashop.com @ 2014-03-17 18:56:04 -->

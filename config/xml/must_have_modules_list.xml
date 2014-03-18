@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules><module><id><![CDATA[213]]></id><name><![CDATA[]]></name><displayName><![CDATA[Export orders / customers / catalog]]></displayName><description><![CDATA[The Export Orders / Customers / Catalog module helps you to save time by displaying a summary of all orders placed through your store, registered customers and your catalog]]></description><description_full><![CDATA[The Export Orders / Customers / Catalog module helps you to save time by displaying a summary of all orders placed through your store, registered customers and your catalog.
+Thanks to the Export Orders / Customers / Catalog module, export data from your orders, your customers and your catalog directly into a spreadsheet.
+Use all your data with your accounting or order-picking for example.
+
+The data that will be exported are:
+The number of orders
+The clients’ names
+The clients’ first names
+The customer's billing addresses
+The client’s delivery address
+The email
+The order status
+The Order date the Payment method
+The discount
+The total paid
+The total actually paid
+The total without taxes
+Total income
+Packaging
+Products ordered
+
+To extract exactly what you want you will have several options, firstly you can sort by date but also by status, whether for all your orders, those that were paid or those waiting.
+The export file is done under the. CSV format, which you can open with many programs, including Microsoft Excel or OpenOffice.
+﻿]]></description_full><additional_description><![CDATA[]]></additional_description><author><![CDATA[Axome]]></author><tab><![CDATA[export]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[24]]></nb_rates><avg_rate><![CDATA[3.3]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/213.jpg?t=06]]></img><price><EUR><![CDATA[90]]></EUR><USD><![CDATA[130.24]]></USD><GBP><![CDATA[78.23]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/exportacion-modulos/213-export-orders-customers-catalog.html?utm_source=v1trunk_api&utm_content=export orders / customers / catalog]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[1504]]></id><name><![CDATA[upstracking]]></name><displayName><![CDATA[UPS Delivery Status]]></displayName><description><![CDATA[N°1 de la distribuciòn de paquetes en Estados Unidos, UPS es un actor ineludible para el e-comercio]]></description><description_full><![CDATA[N°1 de la distribuciòn de paquetes en Estados Unidos, UPS es un actor ineludible para el e-comercio. Incluir este medio de entrega es una ventaja muy apreciable, para proponer a sus clientes una entrega rápida y seguida.]]></description_full><additional_description><![CDATA[]]></additional_description><author><![CDATA[PrestaShop]]></author><tab><![CDATA[shipping_logistics]]></tab><version><![CDATA[1.0.1]]></version><compatibility><from><![CDATA[1.4.0.1]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[10]]></nb_rates><avg_rate><![CDATA[3.8]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/1504.jpg?t=06]]></img><price><EUR><![CDATA[99.99]]></EUR><USD><![CDATA[139.99]]></USD><GBP><![CDATA[88.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/transporte-logistica-prestashop-modulos/1504-ups-delivery-status.html?utm_source=v1trunk_api&utm_content=ups delivery status]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[1768]]></id><name><![CDATA[]]></name><displayName><![CDATA[Google Merchant Center - mejor módulo Google Shopping]]></displayName><description><![CDATA[Cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda]]></description><description_full><![CDATA[Cargue sus productos en Google Shopping y consiga miles de nuevos visitantes cualificados en su tienda.]]></description_full><additional_description><![CDATA[Descubra asimismo nuestro módulo Google Rich Snippets con notas y consejos sobre productos en http://addons.prestashop.com/es/seo-modulos-prestashop/6144-google-rich-snippets-product-ratings-and-reviews.html y Google Remarketing + Dynamic en http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/9736-google-remarketing-dynamic.html
+
+La posición de sus productos en los resultados de Google Shopping depende en gran parte de la calidad de su flujo y de la exhaustividad de sus datos. Cuanta más información proporcione, mejores serán sus resultados.
+
+Este módulo, muy completo, le permitirá maximizar sus oportunidades de conseguir un buen posicionamiento en Google Shopping, minimizando el tiempo invertido para alcanzar ese resultado.
+
+Este módulo ha sido editado por Business Tech, editor certificado por PrestaShop y ganador de los PrestaShop Awards 2011 en la categoría de Mejor módulo.
+
+Tendrá la seguridad de adquirir un módulo de calidad y de disponer de un servicio de soporte técnico reactivo y eficaz.]]></additional_description><author><![CDATA[Business Tech]]></author><tab><![CDATA[seo]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[177]]></nb_rates><avg_rate><![CDATA[4.3]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/1768.jpg?t=06]]></img><price><EUR><![CDATA[89.99]]></EUR><USD><![CDATA[124.99]]></USD><GBP><![CDATA[79.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/seo-modulos-prestashop/1768-google-merchant-center-mejor-modulo-google-shopping.html?utm_source=v1trunk_api&utm_content=google merchant center - mejor módulo google shopping]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[1923]]></id><name><![CDATA[iadvize]]></name><displayName><![CDATA[iAdvize]]></displayName><description><![CDATA[Este módulo se ofrece por iAdvize, que ya está integrado en la versión 1.4 de PrestaShop. Descargar de forma gratuita a la versión 1.3 ]]></description><description_full><![CDATA[Este módulo se ofrece por iAdvize, que ya está integrado en la versión 1.4 de PrestaShop. Descargar de forma gratuita a la versión 1.3 .  Su odio a los visitantes que esperar! Sobre todo cuando tienen una pregunta antes de comprometerse a una compra .  iAdvize es una solución Click to Chat enriquecida que le permite responder directamente a sus visitantes y convertirlos en clientes .  Aumentar las ventas y mejorar sus relaciones con los clientes  Ventas Ahorro: alquiler se cierran automáticamente la discusión con sus visitantes antes de comprarlos de salir de su sitio gracias a las reglas de behavioral targeting. Reducir la tasa de deserción escolar: Tranquilice a sus visitantes para mostrar nuestros botones de las llamadas páginas principales (por ejemplo, carro de compras). Y la respuesta, si sus preocupaciones es necesario,. ¿Sus clientes esperan más: nadie le gusta esperar, especialmente cuando usted tiene una pregunta antes de comprometerse a una compra. Ofrezca a sus visitantes la respuesta inmediata que tienen derecho a tener. Humanizar su sitio web: La relación ofrece un sitio web es impersonal, humanizar! Ofrezca a sus invitados en un diálogo personalizado con los representantes de su sitio.  Características iAdvize  Interact - Diálogo con los visitantes de forma simultánea- Respuestas pre-grabadas - Visualización de la captura en tiempo real - Compatibilidad de mensajería instantánea - Multi-Site Management  Anime - Behavioral Targeting- Invitaciones a la dinámica de chat - Botón Generador de reaseguros - Enviar ofertas  Oriente - Relación de correo electrónico y la transferencia de la página - Tomar el control de la navegación (sin plugins) - Transferencia de los visitantes entre los operadores - Perfil del archivo de los visitantes y clientes - Historia de los intercambios pasado  Cheque - Lista de los visitantes conectados directamente - Informes de ventas - Informes de actividad de los operadores - Informe de satisfacción de los visitantes - Los cambios en Google Analytics  Implementar iAdvize es muy simple. Una vez registrado, simplemente ingrese su nombre de usuario en el módulo de iAdvize para comenzar un diálogo con sus visitantes.]]></description_full><additional_description><![CDATA[]]></additional_description><author><![CDATA[PrestaShop]]></author><tab><![CDATA[front_office_features]]></tab><version><![CDATA[1.0.1]]></version><compatibility><from><![CDATA[1.4.0.17]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[9]]></nb_rates><avg_rate><![CDATA[4.8]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/1923.jpg?t=06]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/aplicaciones-front-office-prestashop-modulos/1923-iadvize.html?utm_source=v1trunk_api&utm_content=iadvize]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[2011]]></id><name><![CDATA[]]></name><displayName><![CDATA[M4 PDF Extensions]]></displayName><description><![CDATA[Work with PDF in PrestaShop on a higher level. Get more options for creating PDF documents in PrestaShop]]></description><description_full><![CDATA[Work with PDF in PrestaShop on a higher level. Get more options for creating PDF documents in PrestaShop. Using templates, you can create your own look for PDF invoices, mailing labels, product catalogs, price lists, and even more.]]></description_full><additional_description><![CDATA[10 reasons you should use this module 1) Customize PDFs quickly and easily 2) Online template editor 3) More than 70 templates to choose from 4) Wide range of customisable options available 5) Consistently high quality PDF output 6) More options, more accuracy 7) No restrictions for fonts and languages 8) Seamless integration with your shop 9) Investment protection 10) More than 500 satisfied customers]]></additional_description><author><![CDATA[Community]]></author><tab><![CDATA[billing_invoicing]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[32]]></nb_rates><avg_rate><![CDATA[3.8]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/2011.jpg?t=07]]></img><price><EUR><![CDATA[99]]></EUR><USD><![CDATA[139.99]]></USD><GBP><![CDATA[88.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/facturacion-contabilidad-modulos-prestashop/2011-m4-pdf-extensions.html?utm_source=v1trunk_api&utm_content=m4 pdf extensions]]></url><badges/></module><module><id><![CDATA[2501]]></id><name><![CDATA[]]></name><displayName><![CDATA[Amazon Market Place]]></displayName><description><![CDATA[Exclusivo de Prestashop Addons, el módulo Amazon es la solución número uno para añadir en línea sus productos a Amazon y gestionar sus pedidos de la marketplace]]></description><description_full><![CDATA[Exclusivo de Prestashop Addons, el módulo Amazon es la solución número uno para añadir en línea sus productos a Amazon y gestionar sus pedidos de la marketplace.]]></description_full><additional_description><![CDATA[Dé un impulso a su tienda con Amazon
+El módulo Amazon Market Place le ofrece la oportunidad de añadir en línea sus productos sin esfuerzo:
+ 
+
+	Usted abre una cuenta en la Amazon Market Place http://sellercentral.amazon.es (Cuenta Profesional).
+	Aumente aún más su potencial: un módulo opcional le permite ajustar regularmente sus precios de venta en Amazon en función de los precios de la competencia.
+	Aumente su potencial de ventas y difunda sus productos sobre todos los sitios de Amazon: Francia, Gran Bretaña, Alemania, Italia, España, Estados Unidos, Canadá, Japón, China.
+	Sincronice su tienda en 3 clics.
+	Usted instala el módulo Amazon Market Place for PrestaShop.
+
+ 
+Externalice su logística en Amazon con Expedié par Amazon; ¡Amazon entrega directamente los pedidos efectuados en su propia tienda!
+
+El módulo crea automáticamente los productos inexistentes en Amazon
+¡Ningún problema en la creación de fichas de artículo!
+
+Usted debe disponer simplemente de un código EAN (o de una exención de código EAN).
+
+Los pedidos
+Una pestaña de pedidos Amazon le permitirá integrar directamente los pedidos en su backoffice PrestaShop.
+
+Usted elige
+
+
+	Importar manualmente de manera cotidiana sus pedidos.
+	O mejorar su índice de satisfacción utilizando la tarea planificada y procesando el hilo de pedidos desde su disponibilidad.
+	Usted expide: el módulo notifica automáticamente al cliente, vía Amazon, de la expedición de su pedido.
+
+ 
+Funcionamiento Técnico:
+Amazon Market Place para PrestaShop se basa sobre el API Amazon Marketplace Web Service (Amazon MWS), por intermediación de peticiones Web Service en XML. Un puerto de enlace protegido (SSL) es establecido entre su tienda y el API Amazon.
+ 
+Productos:
+
+
+	Sus productos deben poseer un código EAN (y/o UPC) o una excepción (otorgada por Amazon)
+	Tiene la posibilidad de crear una regla de mejora de los precios de sus productos con ayuda de una simple fórmula; por ejemplo, para amortizar el margen recaudado por Amazon (ejemplo: +10% sobre todos los productos o +1 euro sobre todos los productos).
+
+ 
+Características y Novedades:
+
+
+	Creación de Fichas de Artículo Automáticas (Nuevos Productos)
+	Multitienda (PS 1.5): exporte desde todas sus tiendas hacia una cuenta Amazon
+	Edición Rápida de Referencias y EAN por listing
+	Integración y compatibilidad con otros módulos de tienda electrónica (CDiscount, PriceMinister...)
+	Informe de éxito detallado (Éxito, Informaciones, Errores…)
+	Gestión de rebajas (Precios rebajados)
+	Soporte FBA Multi Site, Multi Channel
+	Soporte de FBA (Fulfillment by Amazon)
+	Maximización/minimización de precios por artículo, por categoría o global, y valor o porcentaje (o los dos)
+	Gastos de envío por artículos, por categorías o global
+	Multi-Transportistas (por ejemplo: Standard, Express)
+	Gestión del material nuevo, de segunda mano, reacondicionado (práctico para revender las devoluciones “derecho de devolución” de su sitio)
+	Envío automático de imágenes (si se desea), Título y Descripción (si se desea)
+
+ 
+Documentación en Español. Module en Español]]></additional_description><author><![CDATA[Common-Services]]></author><tab><![CDATA[market_place]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[163]]></nb_rates><avg_rate><![CDATA[4.1]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/2501.jpg?t=07]]></img><price><EUR><![CDATA[199]]></EUR><USD><![CDATA[279.99]]></USD><GBP><![CDATA[179.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/afiliacion-prestashop-modulos/2501-amazon-market-place.html?utm_source=v1trunk_api&utm_content=amazon market place]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[2778]]></id><name><![CDATA[]]></name><displayName><![CDATA[Advanced Search 4]]></displayName><description><![CDATA[Ganador del Module Award – Instale el motor de búsqueda más rápido del mercado]]></description><description_full><![CDATA[Ganador del Module Award – Instale el motor de búsqueda más rápido del mercado.
+]]></description_full><additional_description><![CDATA[Ofrezca a sus clientes una selección de productos que se correspondan con sus expectativas.
+
+Herramienta indispensable para las tiendas que ofrecen una amplia selección de productos, Advanced Search 4 permite añadir tantos motores de búsqueda como desee y ponerlos en diferentes espacios de su sitio web.
+Este modulo se ha desarrollado con la voluntad de proporcionar tiempos de carga cortos, incluso para grandes catálogos.
+Sus visitantes podrán recorrer los productos que se correspondan con sus criterios de búsqueda para realizar sus compras en un tiempo mínimo.
+
+Ganador del Best Modules Awards 2012
+
+¡Advanced Search 4 fue elegido mejor módulo del año en el BarCamp PrestaShop de Barcelona!
+
+Herramienta indispensable para las tiendas que ofrecen una amplia selección de productos.
+
+Advanced Search 4 añade la multinavegación facetada, la búsqueda por etapas, filtros y búsquedas con múltiples criterios.
+Cada búsqueda se memoriza mientras los clientes navegan, lo que les permite volver al resultado de sus búsquedas en cualquier momento.
+
+Google es su amigo
+
+Este módulo de PrestaShop supone una pequeña revolución para su referenciamiento. Gracias a Advanced Search 4 podrá generar páginas de productos en masa optimizadas por SEO y ¡sin contenido duplicado!
+Seleccione los criterios que quiere mejorar de su referenciamiento, envíelos y enseguida dispondrá de cientos de páginas que listan sus productos que poseen: URL reescrita, etiquetas H1, descripciones, metaetiquetas, enlaces cruzados automáticos...
+
+Con el fin de maximizar su relevancia, las páginas de resultados pueden compartirse tanto en las principales redes sociales como por correo electrónico.]]></additional_description><author><![CDATA[Presta-Module]]></author><tab><![CDATA[search_filter]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[87]]></nb_rates><avg_rate><![CDATA[4.4]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/2778.jpg?t=07]]></img><price><EUR><![CDATA[199.99]]></EUR><USD><![CDATA[279.99]]></USD><GBP><![CDATA[179.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/busqueda-filtros-prestashop-modulos/2778-advanced-search-4.html?utm_source=v1trunk_api&utm_content=advanced search 4]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[3252]]></id><name><![CDATA[]]></name><displayName><![CDATA[Imprimir etiquetas Pro]]></displayName><description><![CDATA[Ahorrar tiempo valioso al automatizar la publicación de sus etiquetas de envío!
+Este módulo para PrestaShop le permite editar e imprimir etiquetas de envío para pegarlo en tu paquete, en base a los p]]></description><description_full><![CDATA[Ahorrar tiempo valioso al automatizar la publicación de sus etiquetas de envío!
+Este módulo para PrestaShop le permite editar e imprimir etiquetas de envío para pegarlo en tu paquete, en base a los pedidos realizados en su sitio.]]></description_full><additional_description><![CDATA[]]></additional_description><author><![CDATA[PrestaShop]]></author><tab><![CDATA[administration]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[98]]></nb_rates><avg_rate><![CDATA[4.7]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/3252.jpg?t=07]]></img><price><EUR><![CDATA[39.99]]></EUR><USD><![CDATA[59.99]]></USD><GBP><![CDATA[34.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/administracion-prestashop-modulo/3252-print-labels.html?utm_source=v1trunk_api&utm_content=imprimir etiquetas pro]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[4414]]></id><name><![CDATA[]]></name><displayName><![CDATA[All-in-one Rewards: loyalty sponsorship affiliation FB]]></displayName><description><![CDATA[Allows your customers to earn rewards, all grouped into a single account, while developing SEO and reputation of your shop: loyalty program, sponsorship (multilevel, self-promotional), affiliation, fa]]></description><description_full><![CDATA[Allows your customers to earn rewards, all grouped into a single account, while developing SEO and reputation of your shop: loyalty program, sponsorship (multilevel, self-promotional), affiliation, facebook and more. Your sales will really increase !]]></description_full><additional_description><![CDATA[Get tons of new customers and increase your brand reputation thanks to the All-in-one Rewards module !  This module allows to set up a complete system of rewards in your shop to increase SEO and reputation thanks to the virality of the system, and to follow very precisely the performance.]]></additional_description><author><![CDATA[Community]]></author><tab><![CDATA[advertising_marketing]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[31]]></nb_rates><avg_rate><![CDATA[4.6]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/4414.jpg?t=07]]></img><price><EUR><![CDATA[199.99]]></EUR><USD><![CDATA[279.99]]></USD><GBP><![CDATA[179.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/4414-all-in-one-rewards-loyalty-sponsorship-affiliation-fb.html?utm_source=v1trunk_api&utm_content=all-in-one rewards: loyalty sponsorship affiliation fb]]></url><badges/></module><module><id><![CDATA[4982]]></id><name><![CDATA[]]></name><displayName><![CDATA[SEO Internal Linking]]></displayName><description><![CDATA[ Mejores su posicionamiento natural gracias a la red interna
+]]></description><description_full><![CDATA[ Mejores su posicionamiento natural gracias a la red interna
+]]></description_full><additional_description><![CDATA[Optimice el posicionamiento natural de su tienda PrestaShop
+
+Lared interna consiste en la creación de enlaces entre las páginas de su tienda, utilizando palabras clave sobre las que desee conseguir un mejor posicionamiento en Google.
+
+Para optimizar al máximo el posicionamiento de su página en Internet, es primordial construir una red interna que permita a los buscadores recorrer su tienda de la forma más fácil posible. El objetivo es proporcionarle el máximo de información con el menor número posible de clics.
+
+SEO Internal Linking optimiza para usted la organización de la navegación en el seno de su tienda y juega un papel esencial en su estrategia de ¡posicionamiento natural!.
+
+Defina las expresiones con los que se quiere posicionar, así como las páginas de destino y deje que el ¡módulo cree los enlaces para usted¡
+
+Si desea añadir enlaces automáticos a sus descripciones de páginas de categorías, piense en instalar nuestro módulo HTML on Descriptions.
+
+¿Tener una buena red interna funciona verdaderamente?
+
+La red de enlaces internos con palabras clave precisas constituye un método de optimización probado. Sobre todo para reforzar la pertinencia de un contenido.
+
+Entre los inconvenientes, es necesario saber que poner esos enlaces es un proceso largo y tedioso que necesita seguir las reglas de buena conducta SEO, con el fin de no hacer una sobre-optimización que pueda ser detectada por Google, y debe actualizarse con regularidad para incluir todas las modificación de su catálogo.
+
+Es bajo esta óptica que hemos desarrollado este módulo que le permitirá desplegar cientos de enlaces cruzados entre sus páginas en pocos minutos, respetando las buenas prácticas de SEO White Hat.
+
+Se ha pensado también para acompañar tanto a las agencias SEO como a los e-vendedores.
+
+Su utilización es de lo más sencilla.
+]]></additional_description><author><![CDATA[Presta-Module]]></author><tab><![CDATA[seo]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[9]]></nb_rates><avg_rate><![CDATA[4.5]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/4982.jpg?t=07]]></img><price><EUR><![CDATA[149.99]]></EUR><USD><![CDATA[219.99]]></USD><GBP><![CDATA[134.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/seo-modulos-prestashop/4982-seo-internal-linking.html?utm_source=v1trunk_api&utm_content=seo internal linking]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[5255]]></id><name><![CDATA[]]></name><displayName><![CDATA[Informes avanzado de ventas, IVA, beneficios y márgenes]]></displayName><description><![CDATA[Produzca informes profesionales de ventas, de IVA, de pérdidas y ganancias en HTML o en formato exportable CSV / Excel ]]></description><description_full><![CDATA[Produzca informes profesionales de ventas, de IVA, de pérdidas y ganancias en HTML o en formato exportable CSV / Excel . ]]></description_full><additional_description><![CDATA[Obtener una visión clara de la rentabilidad de su tienda y sus productos.
+
+Normalmente, PrestaShop norma no proporciona una herramienta que le permita obtener en un solo clic todos los datos contables importantes: IVA recaudado, montante neto después de la reducción del IVA y lo más importante , las cifras de pérdidas y ganancias desglosadas.
+
+Este módulo le proporciona no sólo estos datos, sino que también le permite responder a preguntas como " ¿qué porcentaje de mis ventas y / o beneficios totales se obtienen gracias a una marca, un proveedor o una categoría de producto en particular? " .
+
+Este módulo cuenta con interfaz AJAX moderna y agradable que permite generar varios tipos de informes preformateados que incluyan todos estos datos de su interés. Se pueden ver en la pantalla en HTML para una consulta simple, o exportarse en formato CSV para su edición en Excel, así como llevar a otro sistema de información o de contabilida.
+
+Este módulo ha sido editado por Business Tech, editor certificado por Prestashop y vencedor de los premios Prestashop 2011 en la categoría de Mejor Módulo.
+
+Tendrá la seguridad de adquirir un módulo de calidad y de disponer de un servicio de soporte técnico reactivo y eficaz.
+
+ 
+]]></additional_description><author><![CDATA[Business Tech]]></author><tab><![CDATA[analytics_stats]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[32]]></nb_rates><avg_rate><![CDATA[4.6]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/5255.jpg?t=07]]></img><price><EUR><![CDATA[129]]></EUR><USD><![CDATA[179.99]]></USD><GBP><![CDATA[114.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/5255-informes-avanzado-de-ventas-iva-beneficios-y-margenes.html?utm_source=v1trunk_api&utm_content=informes avanzado de ventas, iva, beneficios y márgenes]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[5277]]></id><name><![CDATA[]]></name><displayName><![CDATA[Slider - Productos por marca]]></displayName><description><![CDATA[Anime a sus clientes a descubrir la otra de la marca, gracias a la barra en la parte inferior de sus páginas de productos ..]]></description><description_full><![CDATA[Anime a sus clientes a descubrir la otra de la marca, gracias a la barra en la parte inferior de sus páginas de productos ... y aumentar el promedio de la cesta!]]></description_full><additional_description><![CDATA[Este módulo permite que usted agregue la venta cruzada de sus páginas de productos y presentar una gama de productos de la misma marca a sus clientes con mucha facilidad.]]></additional_description><author><![CDATA[PrestaShop]]></author><tab><![CDATA[slideshows]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[14]]></nb_rates><avg_rate><![CDATA[5.0]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/5277.jpg?t=07]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/diaporamas-prestashop-modulos/5277-slider-productos-por-marca.html?utm_source=v1trunk_api&utm_content=slider - productos por marca]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[6356]]></id><name><![CDATA[]]></name><displayName><![CDATA[Multiple Features - ¡Añada innumerables características]]></displayName><description><![CDATA[Refine las características de sus productos
+]]></description><description_full><![CDATA[Refine las características de sus productos
+]]></description_full><additional_description><![CDATA[¡Añada innumerables características!
+
+Avec Multiple Features, podrá asignar tantos valores como necesite para un mismo producto y para la misma característica. Así se deshará de la limitación de PrestaShop y tendrá la posibilidad de utilizar todas las funcionalidades
+
+Por otra parte, si utiliza Advanced Search 4 (Vencedor del trofeo PrestaShop Best Module Awards 2012), le podrá ofrecer a sus visitantes una búsqueda en su catálogo aún más relevante.
+
+Para clientes :
+
+Ocarat.com: "Algunas joyas pueden tener una composición distinta y una aleación de diversos metales. Back Office de PrestaShop le ofrece la posibilidad de asociar cierta característica a un producto. O si lo deseo, puedo introducir en mi tienda un anillo de oro con diamantes y esmeraldas. Actualmente, las características de la pestaña no me permiten hacerlo. No puedo asignar varios valores a un mismo objeto. Así que tengo que elegir entre el oro, los diamantes o las esmeraldas. Multiple Features ha eliminado esta limitación"
+]]></additional_description><author><![CDATA[Presta-Module]]></author><tab><![CDATA[search_filter]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[10]]></nb_rates><avg_rate><![CDATA[4.7]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/6356.jpg?t=07]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/busqueda-filtros-prestashop-modulos/6356-multiple-features-anada-innumerables-caracteristicas.html?utm_source=v1trunk_api&utm_content=multiple features - ¡añada innumerables características]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[6413]]></id><name><![CDATA[]]></name><displayName><![CDATA[Cache Manager]]></displayName><description><![CDATA[Disminuya el tiempo de carga de sus páginas
+]]></description><description_full><![CDATA[Disminuya el tiempo de carga de sus páginas
+]]></description_full><additional_description><![CDATA[Mejore su tasa de conversión y su posicionamiento
+
+Las estadísticas son claras: la razón principal por la que un usuario abandona un sitio web es por el tiempo de carga.
+
+Yahoo! afirma que en su sitio Auto, agregar 400ms a la carga de la página aumenta la tasa de abandono de 5 a 9%. (Source Performance Web)
+
+Además, la rapidez de visualización es una garantía de calidad que posee una influencia bastante positiva en el posicionamiento dentro de los motores de búsqueda.
+
+Usted también hará que sus clientes se beneficien de una navegación mucho más cómoda en su sitio reduciendo el tiempo de carga de las páginas, ¡y haciéndoles ganar tiempo!
+
+Oferta limitada: preços mais baixos e satisfecho o reembolsado !
+ 
+]]></additional_description><author><![CDATA[Presta-Module]]></author><tab><![CDATA[seo]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[8]]></nb_rates><avg_rate><![CDATA[4.5]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/6413.jpg?t=07]]></img><price><EUR><![CDATA[199.99]]></EUR><USD><![CDATA[279.99]]></USD><GBP><![CDATA[179.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/seo-modulos-prestashop/6413-cache-manager.html?utm_source=v1trunk_api&utm_content=cache manager]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[7422]]></id><name><![CDATA[]]></name><displayName><![CDATA[Incremento/descuento de precios por grupos de clientes]]></displayName><description><![CDATA[Este módulo te permite aplicar un incremento o un descuento al precio de un producto dependiendo del grupo al que pertenezca el cliente]]></description><description_full><![CDATA[Este módulo te permite aplicar un incremento o un descuento al precio de un producto dependiendo del grupo al que pertenezca el cliente.
+]]></description_full><additional_description><![CDATA[
+	Aplica diferente precio al producto dependiendo del grupo al que pertenece el cliente
+	Puedes aplicar un incremento/descuento a:
+	
+		Precio mayorista sin IVA
+		Precios al por menor sin IVA
+		Precio de venta con IVA
+	
+	
+	​Aplica un margen a tus productos
+
+]]></additional_description><author><![CDATA[Community]]></author><tab><![CDATA[front_office_features]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[5]]></nb_rates><avg_rate><![CDATA[4.3]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/7422.jpg?t=07]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/aplicaciones-front-office-prestashop-modulos/7422-incremento-descuento-de-precios-por-grupos-de-clientes.html?utm_source=v1trunk_api&utm_content=incremento/descuento de precios por grupos de clientes]]></url><badges/></module><module><id><![CDATA[8244]]></id><name><![CDATA[]]></name><displayName><![CDATA[SEO - deactivated and deleted 301 redirect Products]]></displayName><description><![CDATA[Ends 404 pages and referencing lost a deactivated or deleted product]]></description><description_full><![CDATA[Ends 404 pages and referencing lost a deactivated or deleted product. You will be able to choose for each case a 301 (Ideal for SEO)]]></description_full><additional_description><![CDATA[Whenever a product is disabled or deleted, you will be able to assign a 301 redirect.No need to turn your catalog to find out which product is not active or has been removed, you can see the module and act accordingly.Not overload your HTACCESS file and therefore no notion necessary to make it work!Thus SEO existed to this product will be redirected in confidence to a similar product, category page, etc. ... And not lose all the SEO that page had.With a color scheme, get in a glance the status of your referrals:- Green =&gt; Redirection possible for a disabled or deleted product, but the redirection is not active.- Orange =&gt; Redirection possible for a disabled or deleted product, but the redirection is not active and no link is specified for redirection.- Red =&gt; Redirection enabled, but no link! So page 404 usual!]]></additional_description><author><![CDATA[Ether Création]]></author><tab><![CDATA[seo]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[9]]></nb_rates><avg_rate><![CDATA[3.2]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/8244.jpg?t=07]]></img><price><EUR><![CDATA[79.9]]></EUR><USD><![CDATA[114.99]]></USD><GBP><![CDATA[69.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/seo-modulos-prestashop/8244-seo-deactivated-and-deleted-301-redirect-products.html?utm_source=v1trunk_api&utm_content=seo - deactivated and deleted 301 redirect products]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[8458]]></id><name><![CDATA[]]></name><displayName><![CDATA[Push Products on CMS Pages]]></displayName><description><![CDATA[This module allows you to display a block with the products you want on your CMS pages]]></description><description_full><![CDATA[This module allows you to display a block with the products you want on your CMS pages. Use all pages of your site and increase your sales!]]></description_full><additional_description><![CDATA[This module oriented Merchandising allows you to optimize all your pages, including these you thought it was not possible (Shipping, Secure Payment, Legals, etc..)
+
+Highlight a selection of products on your CMS pages.
+Configure these products by CMS pages directly from your back office easely.
+Increase your sales.
+]]></additional_description><author><![CDATA[Web In Color]]></author><tab><![CDATA[merchandizing]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[4]]></nb_rates><avg_rate><![CDATA[4.7]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/8458.jpg?t=07]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/comercializacion-modulos-prestashop/8458-push-products-on-cms-pages.html?utm_source=v1trunk_api&utm_content=push products on cms pages]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module><module><id><![CDATA[8734]]></id><name><![CDATA[]]></name><displayName><![CDATA[Ley de Cookies con Selector de Módulos]]></displayName><description><![CDATA[Selecciona los cookies que quieres desactivar cuando el usuario entra tu tienda y pon un banner de aviso para cumplir con la LSSI y activar los cookies después de haber informado el usuario y obtenido]]></description><description_full><![CDATA[Selecciona los cookies que quieres desactivar cuando el usuario entra tu tienda y pon un banner de aviso para cumplir con la LSSI y activar los cookies después de haber informado el usuario y obtenido su consentimiento.]]></description_full><additional_description><![CDATA[Nuestro módulo cumple con la Ley Europea de Cookies 2009/136/EC y permite:
+
+	Desactivar una lista de módulos cuando el usuario entra la tienda. No se cargarán cookies hasta que el usuario de su consentimiento (no basta con poner un aviso flotante si ya has instalado las cookies).
+	Poner un banner de aviso en todas las páginas para informar el usuario sobre el uso que tu PrestaShop hace de las cookies, solicitar el consentimiento del mismo y después empezar a usar cookies legalemente.
+
+
+Una vez el usuario de su consentimiento, la pantalla de aviso desaparecerá y recordará la aceptación del usuario durante el tiempo que configure en el módulo, y los módulos funcionarán como siempre.
+
+Los usuarios podrán navegar por la web si no aceptan el uso de cookies, nuestro módulo permite desactivar los cookies de terceros y mantener los cookies técnicos de PrestaShop.
+ 
+"Según el apartado 2 del artículo 22 de la LSSI, los prestadores de servicios deberán informar y conseguir consentimiento de los usuarios, puesto que si no es de ese modo la privacidad de ellos se vería afectada con contenido que sobrepasaría los límites legales de nueva normativa. Las cookies de terceros son responsabilidad de la tienda online que las ofrece."
+
+Este módulo permite seleccionar aquellos módulos de tu tienda PrestaShop que quieras que permanezcan inactivos hasta que el usuario acepte el uso de cookies. Esta opción es ideal para evitar cookies de terceros (como por ejemplo las de google analytics, scripts de chat, etc).
+
+Además, puedes elegir la posición del mensaje (encabezado y pie de página), su color de fondo y su opacidad. El módulo permite configurar el mensaje, crear tu propio html para la pantalla previa y enlazarlo con el CMS donde informes permanentemente sobre el uso de las cookies. Puedes también seleccionar la posibilidad de aceptar mediante botón de confirmación, mediante navegación o mantener el aviso de forma permanente.
+
+Y no te preocupes por el SEO, el módulo no afectará a los bots de los buscadores y permite que los crawlers de los buscadores rastreen la tienda sin activar el módulo.
+ ]]></additional_description><author><![CDATA[Línea Gráfica]]></author><tab><![CDATA[administration]]></tab><version><![CDATA[]]></version><compatibility><from><![CDATA[1.6.0.5]]></from><to><![CDATA[1.6.0.5]]></to></compatibility><nb_rates><![CDATA[4]]></nb_rates><avg_rate><![CDATA[4.0]]></avg_rate><img><![CDATA[http://addons-media.prestashop.com/img/pico/8734.jpg?t=07]]></img><price><EUR><![CDATA[29.99]]></EUR><USD><![CDATA[42.99]]></USD><GBP><![CDATA[27.99]]></GBP></price><url><![CDATA[http://addons.prestashop.com/es/administracion-prestashop-modulo/8734-ley-de-cookies-con-selector-de-modulos.html?utm_source=v1trunk_api&utm_content=ley de cookies con selector de módulos]]></url><badges><badge><![CDATA[http://medias3.prestastore.com/themes/prestastore/img/certif_prestashop_en.png]]></badge></badges></module></modules>

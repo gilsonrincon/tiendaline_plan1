@@ -1,5 +1,3 @@
 *.tmp
-cache/
-config/xml/
-modules/*/config.xml
+/cache/
 .project
