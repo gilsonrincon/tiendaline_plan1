@@ -90,64 +90,13 @@
 		<div class="col-md-4 col-lg-3" id="hookDashboardZoneOne">
 			{$hookDashboardZoneOne}
 		</div>
-		<div class="col-md-8 col-lg-7" id="hookDashboardZoneTwo">
+		<div class="col-md-8 col-lg-9" id="hookDashboardZoneTwo">
 			{$hookDashboardZoneTwo}
 			<div id="dashaddons" class="row-margin-bottom">
 				<a href="http://addons.prestashop.com/208-dashboards?utm_source=backoffice_dashboard" target="_blank">
 					<i class="icon-plus"></i> {l s='Add more graph and data'}
 				</a>
 			</div>
-		</div>
-		<div class="col-md-12 col-lg-2">
-			<section class="dash_news panel">
-				<h3><i class="icon-rss"></i> PrestaShop News</h3>
-				<div class="dash_news_content"></div>
-			</section>
-
-			<section id="dash_version" class="visible-lg">
-				<iframe frameborder="no" scrolling="no" allowtransparency="true" src="{$new_version_url}"></iframe>
-			</section>
-
-			<section class="dash_links panel">
-				<h3><i class="icon-link"></i> {l s="Useful Links"}</h3>
-					<dl>
-						<dt>{l s="Discover the official documentation"}</dt>
-						<dd><a href="http://doc.prestashop.com/display/PS16?utm_source=backoffice_dashboard" target="_blank">{l s="Go to doc.prestashop.com"}</a></dd>
-					</dl>
-					<dl>
-						<dt>{l s="Use the forum & discover a great community"}</dt>
-						<dd><a href="http://www.prestashop.com/forums?utm_source=backoffice_dashboard" target="_blank">{l s="Go to forums.prestashop.com"}</a></dd>
-					</dl>
-					<dl>
-						<dt>{l s="Enhance your Shop with new templates & modules"}</dt>
-						<dd><a href="http://addons.prestashop.com?utm_source=backoffice_dashboard" target="_blank">{l s="Go to addons.prestashop.com"}</a></dd>
-					</dl>
-					<dl>
-						<dt>{l s="Report issues in the Bug Tracker"}</dt>
-						<dd><a href="http://forge.prestashop.com?utm_source=backoffice_dashboard" target="_blank">{l s="Go to forge.prestashop.com"}</a></dd>
-					</dl>
-					<dl>
-						<dt>{l s="Contact Us"}</dt>
-						<dd><a href="http://www.prestashop.com/en/contact-us?utm_source=backoffice_dashboard" target="_blank">{l s="Go to prestashop.com"}</a></dd>
-					</dl>
-			</section>
-
-			<section class="dash_simulation panel">
-				<h3><i class="icon-link"></i> {l s="Demo Mode"}</h3>
-				<span class="switch prestashop-switch">
-					<input id="PS_DASHBOARD_SIMULATION_on" class="ps_dashboard_simulation" type="radio" {if $PS_DASHBOARD_SIMULATION == 1}checked="checked"{/if} value="1" name="PS_DASHBOARD_SIMULATION">
-					<label class="radioCheck" for="PS_DASHBOARD_SIMULATION_on">
-						{l s='Yes'}
-					</label>
-					<input id="PS_DASHBOARD_SIMULATION_off" class="ps_dashboard_simulation" type="radio" {if $PS_DASHBOARD_SIMULATION == 0}checked="checked"{/if} value="0" name="PS_DASHBOARD_SIMULATION">
-					<label class="radioCheck" for="PS_DASHBOARD_SIMULATION_off">
-						{l s='No'}
-					</label>
-					<a class="slide-button btn"></a>
-				</span>
-				{l s='This mode generates fake data so you can try your Dashboard without real numbers.'}
-			</section>
-
 		</div>
 	</div>
 </div>
