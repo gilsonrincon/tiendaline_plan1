@@ -1,0 +1,10 @@
+Mensaje de {shop_name}
+
+Información de contacto
+
+Un visitante al sitio Web ha enviado una solicitud de contacto:</p>
+
+Nombre: {nombre}
+Telèfono: {telefono}
+E-mail: {mail}
+Mensaje: {message}

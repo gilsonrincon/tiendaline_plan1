@@ -2,7 +2,7 @@
 <module>
 	<name>statssales</name>
 	<displayName><![CDATA[Ventas y pedidos]]></displayName>
-	<version><![CDATA[1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[A&ntilde;ade una evoluci&oacute;n de ventas y compras al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

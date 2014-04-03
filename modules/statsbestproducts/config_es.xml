@@ -2,7 +2,7 @@
 <module>
 	<name>statsbestproducts</name>
 	<displayName><![CDATA[Mejores productos]]></displayName>
-	<version><![CDATA[1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[A&ntilde;ade una lista de los productos m&aacute;s vendidos al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

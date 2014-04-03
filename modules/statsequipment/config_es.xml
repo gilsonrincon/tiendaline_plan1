@@ -2,7 +2,7 @@
 <module>
 	<name>statsequipment</name>
 	<displayName><![CDATA[Exploradores y sistemas operativos]]></displayName>
-	<version><![CDATA[1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[A&ntilde;ade una pesta&ntilde;a con gr&aacute;ficos acerca del uso del navegador web y el sistema operativo al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

@@ -2,8 +2,8 @@
 <module>
 	<name>statsvisits</name>
 	<displayName><![CDATA[Visitas y Visitantes]]></displayName>
-	<version><![CDATA[1]]></version>
-	<description><![CDATA[A&ntilde;ade estad&iacute;sticas acerca de tus visitas y visitantes al panel de control de estad&iacute;sticas.]]></description>
+	<version><![CDATA[1.3]]></version>
+	<description><![CDATA[Adds statistics about your visits and visitors to the Stats dashboard.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>
 	<is_configurable>0</is_configurable>

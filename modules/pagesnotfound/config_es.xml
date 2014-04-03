@@ -2,7 +2,7 @@
 <module>
 	<name>pagesnotfound</name>
 	<displayName><![CDATA[P&aacute;gina no encontrada]]></displayName>
-	<version><![CDATA[1.1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[Mostrar las p&aacute;ginas solicitadas por sus visitantes pero no encontradas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

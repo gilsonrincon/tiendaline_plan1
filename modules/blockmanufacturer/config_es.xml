@@ -2,7 +2,7 @@
 <module>
 	<name>blockmanufacturer</name>
 	<displayName><![CDATA[Bloque de marcas]]></displayName>
-	<version><![CDATA[1.1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[Mostrar bloque de marcas]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

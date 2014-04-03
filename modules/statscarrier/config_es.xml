@@ -2,7 +2,7 @@
 <module>
 	<name>statscarrier</name>
 	<displayName><![CDATA[Distribuci&oacute;n transportista]]></displayName>
-	<version><![CDATA[1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[A&ntilde;ade un gr&aacute;fico que muestra la distribuci&oacute;n de cada transportista al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

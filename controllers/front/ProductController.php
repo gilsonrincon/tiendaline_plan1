@@ -258,6 +258,7 @@ class ProductControllerCore extends FrontController
 				'allow_oosp' => $this->product->isAvailableWhenOutOfStock((int)$this->product->out_of_stock),
 				'last_qties' =>  (int)Configuration::get('PS_LAST_QTIES'),
 				'HOOK_EXTRA_LEFT' => Hook::exec('displayLeftColumnProduct'),
+				'HOOK_PRODUCT_CONTACT' => Hook::exec('productContact'),
 				'HOOK_EXTRA_RIGHT' => Hook::exec('displayRightColumnProduct'),
 				'HOOK_PRODUCT_OOS' => Hook::exec('actionProductOutOfStock', array('product' => $this->product)),
 				'HOOK_PRODUCT_ACTIONS' => Hook::exec('displayProductButtons', array('product' => $this->product)),

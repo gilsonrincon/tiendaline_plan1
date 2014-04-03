@@ -2,7 +2,7 @@
 <module>
 	<name>statsregistrations</name>
 	<displayName><![CDATA[Cuentas cliente]]></displayName>
-	<version><![CDATA[1]]></version>
+	<version><![CDATA[1.2]]></version>
 	<description><![CDATA[A&ntilde;ade una pesta&ntilde;a de progreso de registro al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>
