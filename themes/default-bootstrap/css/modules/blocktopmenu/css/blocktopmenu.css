@@ -1,3 +1,15 @@
 #block_top_menu {
-  padding-top: 25px;
-  padding-top: 25px; }
+  /*padding-top: 25px;
+  padding-top: 25px;*/
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  padding: 0;
+  margin-top: 3%;
+   }
+
+@media (max-width: 767px){
+	#block_top_menu{
+		width: 100%;
+	}
+}

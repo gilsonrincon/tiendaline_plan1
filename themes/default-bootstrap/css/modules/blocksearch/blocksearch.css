@@ -1,5 +1,9 @@
 #search_block_top {
-  padding-top: 50px; }
+  padding-top: 50px;
+  display: inline-block;
+  vertical-align: top;
+  width: 24%;
+  float: none; }
   #search_block_top #searchbox {
     float: left;
     width: 100%; }
@@ -63,3 +67,10 @@ form#searchbox {
     float: left; }
     form#searchbox .button.button-small i {
       margin-right: 0; }
+
+/*****plan 1***/
+@media (max-width: 767px){
+  #search_block_top {
+  width: 100%;
+ }
+}
