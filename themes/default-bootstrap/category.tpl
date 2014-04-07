@@ -78,6 +78,7 @@
 			<ul class="clearfix">
 			{foreach from=$subcategories item=subcategory}
 				<li>
+                    <!--
                 	<div class="subcategory-image">
 						<a href="{$link->getCategoryLink($subcategory.id_category, $subcategory.link_rewrite)|escape:'html':'UTF-8'}" title="{$subcategory.name|escape:'html':'UTF-8'}" class="img">
 						{if $subcategory.id_image}
@@ -87,6 +88,7 @@
 						{/if}
 					</a>
                    	</div>
+                    -->
 					<h5><a class="subcategory-name" href="{$link->getCategoryLink($subcategory.id_category, $subcategory.link_rewrite)|escape:'html':'UTF-8'}">{$subcategory.name|truncate:25:'...'|escape:'html':'UTF-8'|truncate:350}</a></h5>
 					{if $subcategory.description}
 						<div class="cat_desc">{$subcategory.description}</div>
@@ -98,13 +100,8 @@
 		{/if}
 		{if $products}
 			<div class="content_sortPagiBar clearfix">
-            	<div class="sortPagiBar clearfix">
-            		{include file="./product-sort.tpl"}
-                	{include file="./nbr-product-page.tpl"}
-				</div>
                 <div class="top-pagination-content clearfix">
                 	{include file="./product-compare.tpl"}
-					{include file="$tpl_dir./pagination.tpl"}
                 </div>
 			</div>
 			{include file="./product-list.tpl" products=$products}

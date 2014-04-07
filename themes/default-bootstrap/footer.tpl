@@ -34,6 +34,7 @@
 			<div class="footer-container">
 				<footer id="footer"  class="container">
 					<div class="row">{$HOOK_FOOTER}</div>
+					<p>&copy 2014 Desarrollado por <a class="_blank" href="http://www.tiendaline.co"> TiendaLine. </a></p>
 				</footer>
 			</div><!-- #footer -->
 		</div><!-- #page -->

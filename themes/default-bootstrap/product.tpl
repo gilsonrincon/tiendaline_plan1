@@ -226,11 +226,13 @@
 					<!-- usefull links-->
 					<ul id="usefull_link_block" class="clearfix no-print">
 						{if $HOOK_EXTRA_LEFT}{$HOOK_EXTRA_LEFT}{/if}
+						<!--
 						<li class="print">
 							<a href="javascript:print();">
 								{l s='Print'}
 							</a>
 						</li>
+						-->
 						{if $have_image && !$jqZoomEnabled}{/if}
 					</ul>
 					{/if}
